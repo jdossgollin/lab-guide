@@ -4,7 +4,11 @@ theme: "material"
 
 nav:
     - Home: index.md
-    - Bash: bash.md
+    - Participation Guide: conduct.md
+    - Programs:
+        - Bash: bash.md
+    - Applications:
+        - Reference Manager: zotero.md
     - Group Website: labsite.md
     - Additional Resources: resources.md
 
