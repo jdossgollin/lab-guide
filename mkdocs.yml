@@ -1,0 +1,18 @@
+site_name: Doss-Gollin Group Dry Guide
+repo_url: https://github.com/jdossgollin/dry-guide
+theme: "material"
+
+nav:
+    - Home: index.md
+    - Bash: bash.md
+    - Group Website: labsite.md
+    - Additional Resources: resources.md
+
+markdown_extensions:
+    - admonition
+    - codehilite
+    - smarty
+    - meta
+    - toc:
+        permalink: True
+    - attr_list
