@@ -1,4 +1,4 @@
-# Bash
+# The `bash` shell
 
 [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) is the default unix shell on Mac OS and most Linux operating systems.
 You'll need to use Bash to run many different types of models, and to work on supercomputers or clusters.
@@ -38,5 +38,11 @@ You should familiarize yourself with the following commands:
 
 Here are a few more resources that may be helpful:
 
-* [awk guide](https://linuxconfig.org/learning-linux-commands-awk)
-* [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md) - hundreds of examples
+* [awk guide](https://linuxconfig.org/learning-linux-commands-awk){:target="_blank"}
+* [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md){:target="_blank"} - hundreds of examples
+
+## Other shells
+
+On your own computer you may choose to use `zsh` instead of `bash`.
+`zsh` is like `bash`, but with some few extra features described [here](https://www.howtogeek.com/362409/what-is-zsh-and-why-should-you-use-it-instead-of-bash/){:target="_blank"}.
+The [oh my zsh](https://ohmyz.sh/){:target="_blank"} extension is highly recommended.

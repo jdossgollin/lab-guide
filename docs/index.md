@@ -1,8 +1,8 @@
-# Welcome to the Doss-Gollin Group Dry Guide
+# Welcome to the Doss-Gollin Group Lab Guide
 
-The Dry Guide details the computational infrastructure and tasks used in our research group.
+This document (1) describes our group's core policies and procedures and (2) offers guidance on learning and using key tools.
 
-## Approach
+Our group policies are informal guidelines and should never supersede your common sense, University policies, or the law.
 
-This is currently quite bare-bones, because it's impossible to anticipate all the tools that we'll need in the future.
-As you learn specific tools, update this documentation so that the next person can learn more easily.
+The description of tools used in the group is intended to help new members get started.
+All group members should be familiar with these tools, but are free to use other tools as appropriate.

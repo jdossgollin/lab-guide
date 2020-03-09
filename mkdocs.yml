@@ -1,22 +1,27 @@
-site_name: Doss-Gollin Group Dry Guide
+site_name: Doss-Gollin Group Lab Guide
 repo_url: https://github.com/jdossgollin/dry-guide
 theme: "material"
 
 nav:
     - Home: index.md
-    - Participation Guide: conduct.md
-    - Programs:
-        - Bash: bash.md
-    - Applications:
+    - Code of Conduct: conduct.md
+    - Tools:
+        - bash: bash.md
+        - git and GitHub: git.md
+        - Text Editor: editor.md
+        - LaTeX: latex.md
         - Reference Manager: zotero.md
-    - Group Website: labsite.md
+    - How To:
+        - Manage the Group Website: labsite.md
+        - Write a Paper: paper.md
     - Additional Resources: resources.md
 
 markdown_extensions:
     - admonition
+    - attr_list
     - codehilite
-    - smarty
+    - footnotes
     - meta
+    - smarty
     - toc:
         permalink: True
-    - attr_list

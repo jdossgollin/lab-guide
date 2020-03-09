@@ -1,10 +1,8 @@
-# Andersenlab.org
-
-[TOC]
+# Group Website
 
 ## Getting Started
 
-The Andersen Lab website was built using [jekyll](https://jekyllrb.com/) and runs using the [Github Pages](https://pages.github.com/) service.
+The lab website was built using [jekyll](https://jekyllrb.com/) and runs using the [Github Pages](https://pages.github.com/) service.
 
 #### Software-Dependencies
 
