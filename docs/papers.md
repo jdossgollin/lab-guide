@@ -1,4 +1,6 @@
-# Write a Paper
+# Writing papers
+
+https://dxl.ncsa.illinois.edu/docs/writing_papers.html
 
 ## Plan of Attack
 
@@ -17,6 +19,12 @@
 
 ## Useful references
 
+You should constantly seek to become a better writer.
+Writing well requires thinking clearly, and so the process of improving writing often helps one improve their thinking.
 Copies of the following references are available for group use:
 
-* Schimel, J. (2012). Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded. Oxford ; New York: Oxford University Press.
+* McCloskey, D.N. (2000). Economical Writing.
+* Roman, K. and Raphaelson, J. (2000). Writing That Works: How to Communicate Effectively In Business.
+* Schimel, J. (2012). Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded.
+* Strunk W., White, E.B., and Angell, R. (1999). The Elements of Style.
+* Zinsser, W. (2016). On Writing Well: An Informal  Guide to Writing Nonfiction.

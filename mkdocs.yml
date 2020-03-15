@@ -4,17 +4,14 @@ theme: "material"
 
 nav:
     - Home: index.md
-    - Code of Conduct: conduct.md
-    - Tools:
-        - bash: bash.md
-        - git and GitHub: git.md
-        - Text Editor: editor.md
-        - LaTeX: latex.md
-        - Reference Manager: zotero.md
-    - How To:
-        - Manage the Group Website: labsite.md
-        - Write a Paper: paper.md
-    - Additional Resources: resources.md
+    - Code of couduct: conduct.md
+    - Health and wellness: health.md
+    - Mission statement: mission.md
+    - Expectations: expectations.md
+    - Infrastructure guide: infrastructure.md
+    - Communication: communication.md
+    - Coding and software: software.md
+    - Writing papers: papers.md
 
 markdown_extensions:
     - admonition

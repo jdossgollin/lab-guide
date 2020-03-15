@@ -18,3 +18,5 @@ Please add additional resources freely.
 ## Tools
 
 * [Feedly](https://feedly.com/){:target="_blank"} is a cool aggregator that allows you to subscribe to a wide set of blogs and journals so that you can stay up to date with the latest information
+
+* https://chrisblattman.com/
