@@ -1,6 +1,6 @@
-# Code of conduct
+# Harassment policy
 
-All members of the research group are required to agree with the following code of conduct.
+All members of the research group are required to agree with the following policy on harassment in the workplace.
 Additionally, we collectively agree to enforce this code.
 We are expecting cooperation from all members to help ensuring a safe environment for everyone.
 
@@ -29,3 +29,5 @@ If James is the cause of the concern or you would prefer he not be involved, off
 
 We expect research group members to follow these rules in all professional settings including the office, conferences, workshop venues, and group-related social events.
 We additionally expect members to treat each other professionally with respect to their work and workspaces, with constructive criticism, without dismissive behavior, and without disruption of shared working spaces.
+
+> Credit: Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about){:target="\_blank"} & [The Ada Initiative](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy){:target="\_blank"}. Please help by translating or improving [on GitHub](https://github.com/confcodeofconduct/confcodeofconduct.com){:target="\_blank"}. This work is licensed under a Creative Commons Attribution 3.0 Unported License.

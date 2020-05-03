@@ -5,8 +5,15 @@ The Andersen lab [dry-lab computing guide](http://andersenlab.org/dry-guide/). T
 ## Editing the site
 
 1. Clone the repo
-1. Install `mkdocs` and `mike=0.4.2`
-1. When edits are complete, use `mike deploy`.
+2. Install `mkdocs` and `mike=0.4.2`
+3. Make edits
+4. Run `mkdocs serve` and open on your computer. You  will get a message that looks like 
+```
+[I 200426 10:58:18 server:296] Serving on http://127.0.0.1:8000
+```
+in which case open `http://127.0.0.1:8000` in your web browser
+
+5. When edits are complete, use `mike deploy`.
 
 If you are making minor changes, use the same version:
 

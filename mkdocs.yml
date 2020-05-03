@@ -3,22 +3,31 @@ repo_url: https://github.com/jdossgollin/dry-guide
 theme: "material"
 
 nav:
-    - Home: index.md
-    - Code of couduct: conduct.md
-    - Health and wellness: health.md
-    - Mission statement: mission.md
-    - Expectations: expectations.md
-    - Infrastructure guide: infrastructure.md
-    - Communication: communication.md
-    - Coding and software: software.md
-    - Writing papers: papers.md
+      - Home: index.md
+      - Expectations:
+              - Communication: communication.md
+              - Expectations: expectations.md
+              - Harassment policy: harassment.md
+              - Health and wellness: health.md
+              - Mission statement: mission.md
+      - Computing:
+              - Docker: docker.md
+              - General rules: software.md
+              - Infrastructure guide: infrastructure.md
+              - Latex: latex.md
+              - Markdown: markdown.md
+              - Python style: python.md
+              - Testing: testing.md
+      - Tools:
+              - Zoter: zotero.md
+              - Writing papers: papers.md
 
 markdown_extensions:
-    - admonition
-    - attr_list
-    - codehilite
-    - footnotes
-    - meta
-    - smarty
-    - toc:
-        permalink: True
+      - admonition
+      - attr_list
+      - codehilite
+      - footnotes
+      - meta
+      - smarty
+      - toc:
+              permalink: True
