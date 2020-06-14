@@ -1,33 +1,23 @@
 site_name: Doss-Gollin Group Lab Guide
-repo_url: https://github.com/jdossgollin/dry-guide
+repo_url: https://github.com/jdossgollin/lab-guide
 theme: "material"
 
 nav:
-      - Home: index.md
-      - Expectations:
-              - Communication: communication.md
-              - Expectations: expectations.md
-              - Harassment policy: harassment.md
-              - Health and wellness: health.md
-              - Mission statement: mission.md
-      - Computing:
-              - Docker: docker.md
-              - General rules: software.md
-              - Infrastructure guide: infrastructure.md
-              - Latex: latex.md
-              - Markdown: markdown.md
-              - Python style: python.md
-              - Testing: testing.md
-      - Tools:
-              - Zoter: zotero.md
-              - Writing papers: papers.md
+        - Home: index.md
+        - Harassment Policy: harassment.md
+        - Health and Wellness: health.md
+        - New Member Checklist: checklist.md
+        - Open Science: open.md
+        - Roles and Responsibilities: expectations.md
+        - Writing Papers: papers.md
 
 markdown_extensions:
-      - admonition
-      - attr_list
-      - codehilite
-      - footnotes
-      - meta
-      - smarty
-      - toc:
-              permalink: True
+        - admonition
+        - attr_list
+        - codehilite
+        - footnotes
+        - meta
+        - smarty
+
+plugins:
+        - search

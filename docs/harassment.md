@@ -1,8 +1,8 @@
 # Harassment policy
 
+This harassment policy is a non-negotiable first step towards our [mission](/misison/) of building an inclusive and diverse environment.
 All members of the research group are required to agree with the following policy on harassment in the workplace.
-Additionally, we collectively agree to enforce this code.
-We are expecting cooperation from all members to help ensuring a safe environment for everyone.
+Additionally, we collectively agree to enforce this code, ensuring a safe environment for everyone.
 
 ## The quick version
 
@@ -23,11 +23,10 @@ Group members asked to stop any harassing behavior are expected to comply immedi
 If a member engages in harassing behavior, other group members and James Doss-Gollin may take any action they deem appropriate to stop this behavior, including warning the offender or expulsion from the group and sanction through official Rice University channels.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact James Doss-Gollin immediately.
-James Doss-Gollin is available to help group members contact security or local law enforcement, navigate official University reporting channels, or otherwise assist those experiencing harassment to feel safe in the research environment.
-
+James is available to help group members contact security or local law enforcement, navigate official University reporting channels, or otherwise assist those experiencing harassment to feel safe in the research environment.
 If James is the cause of the concern or you would prefer he not be involved, official concerns can be directed to the [Office for Interpersonal Misconduct Prevention and Support](https://safe.rice.edu/help-a-friend/getting-help-friend-and-yourself){:target="\_blank"}, [Office of Diversity and Inclusion](https://diversity.rice.edu/){:target="\_blank"}, or [Title IX Office](https://policy830.rice.edu/make-report){:target="\_blank"}.
 
 We expect research group members to follow these rules in all professional settings including the office, conferences, workshop venues, and group-related social events.
 We additionally expect members to treat each other professionally with respect to their work and workspaces, with constructive criticism, without dismissive behavior, and without disruption of shared working spaces.
 
-> Credit: Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about){:target="\_blank"} & [The Ada Initiative](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy){:target="\_blank"}. Please help by translating or improving [on GitHub](https://github.com/confcodeofconduct/confcodeofconduct.com){:target="\_blank"}. This work is licensed under a Creative Commons Attribution 3.0 Unported License.
+> **Credit:** Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about){:target="\_blank"} & [The Ada Initiative](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy){:target="\_blank"}. Please help by translating or improving [on GitHub](https://github.com/confcodeofconduct/confcodeofconduct.com){:target="\_blank"}. This work is licensed under a Creative Commons Attribution 3.0 Unported License.

@@ -1,7 +1,0 @@
-# Docker
-
-## What
-
-## Why
-
-## How
