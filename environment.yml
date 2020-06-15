@@ -9,3 +9,5 @@ dependencies:
     - pip:
           - mike==0.4.2
           - mkdocs-material==4.6.3
+          - mkdocs-git-revision-date-localized-plugin
+          - mkdocs-awesome-pages-plugin

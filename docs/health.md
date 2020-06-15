@@ -29,7 +29,8 @@ Some other tips, based on experience, are the following:
 3. Develop a support network among your peers. They understand the struggle!
 4. Use mental health resources! Seeking help with your mental hygiene and wellness is a (well-deserved!) investment in yourself, not a personal failure.
 
->**WARNING:** If you or someone you know may be considering suicide, contact the National Suicide Prevention Lifeline at 1-800-273-8255.
+!!! danger
+    If you or someone you know may be considering suicide, contact the National Suicide Prevention Lifeline at 1-800-273-8255.
 
 ## Campus resources
 

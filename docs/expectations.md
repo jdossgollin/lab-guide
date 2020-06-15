@@ -1,8 +1,7 @@
 # Roles and Responsibilities
 
-> **NOTE:** Human resources guidelines take precedence over this section.
-
-The best rules are flexible; in that spirit, these expectations and roles are negotiable.
+!!! info "Caveat"
+    Guidelines from Rice University, Rice Engineering, and Rice CEE take precedence over this section.
 
 ## Lab presence
 
@@ -36,6 +35,10 @@ Here are some general guidelines to help define what it means to be "at work":
 1. If circumstances (e.g., global pandemics) force us to work from home, coordinate with James to make sure you have the equipment you need. Do not take equipment from the lab without authorization.
 
 ## Roles and responsibilities
+
+!!! tip "Heads up"
+    You shouldn't spend your own money on necessary work supplies.
+    Talk to James to make sure you have the resources you need.
 
 ### PI responsibilities
 
@@ -89,6 +92,5 @@ Undergraduate students in the research group have a few core responsibilities.
 9. Apply for scholarships, awards, and fellowships
 
 
-## Credit
-
-Specific language on this page comes from [Ryan Abernathey's](https://ocean-transport.github.io/guide.html){:target="_blank"} lab guide.
+!!! info "Credit"
+    Specific language on this page comes from the [Ocean Transport Group](https://ocean-transport.github.io/){:target="_blank"} at the Lamont-Doherty Earth Observatory.

@@ -1,23 +1,30 @@
 site_name: Doss-Gollin Group Lab Guide
+repo_name: jdossgollin/lab-guide
 repo_url: https://github.com/jdossgollin/lab-guide
-theme: "material"
-
-nav:
-        - Home: index.md
-        - Harassment Policy: harassment.md
-        - Health and Wellness: health.md
-        - New Member Checklist: checklist.md
-        - Open Science: open.md
-        - Roles and Responsibilities: expectations.md
-        - Writing Papers: papers.md
+theme:
+        name: material
+        palette:
+                scheme: slate
+        font:
+                text: Roboto
+                code: Ubuntu Mono
+extra:
+        social:
+                - icon: fontawesome/brands/github-alt
+                  link: https://github.com/squidfunk
+                - icon: fontawesome/brands/twitter
+                  link: https://twitter.com/squidfunk
+                - icon: fontawesome/brands/linkedin
+                  link: https://linkedin.com/in/squidfunk
 
 markdown_extensions:
         - admonition
-        - attr_list
         - codehilite
         - footnotes
-        - meta
-        - smarty
+        - attr_list
 
 plugins:
-        - search
+        - search # necessary for search to work
+        - awesome-pages
+        - git-revision-date-localized:
+                  type: date

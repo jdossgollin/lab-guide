@@ -32,18 +32,7 @@ Before learning specific tools, read
 > Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). Good enough practices in scientific computing. PLOS Computational Biology, 13(6), e1005510. [https://doi.org/10.1371/journal.pcbi.1005510](https://doi.org/10.1371/journal.pcbi.1005510){:target="_blank"}
 
 to understand **why** we use them and how each tool fits into our overall scientific workflow.
-Some default tools that  we use to achieve these practices are:
-
-* `UNIX shell`: all our other tools build on the Unix shell and the philosophy it builds on. [`Primer`](http://swcarpentry.github.io/shell-novice/){:target="blank"}
-* `conda`: manage dependencies for python (and R and beyond). [`Primer`](https://earth-env-data-science.github.io/lectures/environment/python_environments.html){:target="_blank"}
-* `docker`: a tool for saving and sharing complete, shareable, reproducible computing environments. [`Tutorial`](https://docker-curriculum.com/){:target="_blank"}
-* `git` and GitHub: `git` is a version control system for software; GitHub is an online repository that allows you to collaborate with colleagues around the world. [`git Primer`](http://swcarpentry.github.io/git-novice/){:target="_blank"} [`GitHub Primer`](https://lab.github.com/githubtraining/introduction-to-github){:target="_bank"}
-* `LaTeX`: a tricky but powerful language for writing academic documents. [Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes){:target="_blank"}
-* `Markdown`: a markup language for simple digital documents. [`Primer`](https://guides.github.com/features/mastering-markdown/){:target="_blank"}.
-* `python`: our programming language of choice. Python is a multi-purpose language with stable and high-performing libraries for numerical computing, data visualization, gridded data, machine learning, and more. We use the [black](https://github.com/psf/black){:target="_blank"} formatter to keep code pretty and static [type hinting](https://sunscrapers.com/blog/python-best-practices-static-typing-in-python-with-mypy/){:target="_blank"} with [mypy](http://mypy-lang.org/){:target="_blank"}. [`Primer`](https://earth-env-data-science.github.io/lectures/core_python/python_fundamentals.html){:target="_blank"}
-* `R`: a statistical programming language. Although in general we prefer python, stable versions of some statistical models are implemented only in `R`. `R` also has great tools for working with tabular data. [`Digital Textbook`](https://r4ds.had.co.nz/){:target="_blank"}
-* `Snakemake`: a workflow management tool that allows you to specify all the transformations (and the environment and software required) that take you from raw data and configuration files to outputs. [`Docs`](https://snakemake.readthedocs.io/en/stable/){:target="_blank"}
-
+Some default tools that  we use to achieve these practices are listed in [tools](/tools).
 Don't try to learn everything at once -- build your skillset incrementally.
 And if you believe another tool will get the job done faster or better, go for it!
 

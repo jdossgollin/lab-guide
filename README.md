@@ -5,7 +5,7 @@ The Andersen lab [dry-lab computing guide](http://andersenlab.org/dry-guide/). T
 ## Editing the site
 
 1. Clone the repo
-2. Install `mkdocs` and `mike=0.4.2`
+2. Install `mkdocs` and `mike`: `conda env create --file environment.yml`
 3. Make edits
 4. Run `mkdocs serve` and open on your computer. You  will get a message that looks like 
 ```
@@ -23,13 +23,19 @@ mike deploy [current date version] latest --update-aliases --ignore --push
 
 The word `latest` here is an alias which will ensure that the new version is served.
 
-
 If you have made substantial changes to the site, like adding new sections or removing or rewriting sections, create a new version with the current date.
 
 ```bash
 mike deploy [today's date] latest --update-aliases --ignore --push
 ```
+ 
+Or:
 
+```bash
+mkdocs gh-deploy
+```
+
+**?**
 
 ## Versioning the site
 
