@@ -15,8 +15,8 @@ Through mission-oriented basic research guided by community engagement, we devel
 ## Core values
 
 !!! success "Academic Freedom"
-    As academics, we enjoy the luxury of having freedom to question the status quo, imagine new possibilities, and develop novel approaches.
-    It is our obligation to make the most of this privilege.
+    As academics, we enjoy the luxury of having freedom to question the status quo and explore new ideas.
+    It is our responsibility to imagine new possibilities and redefine engineering practice.
 
 !!! success "Equity"
     We recognize the uncomfortable reality of systemic inequalities and seek to promote fairness, impartiality, and justice through our work.
@@ -26,9 +26,9 @@ Through mission-oriented basic research guided by community engagement, we devel
     We seek to do what is right, not what is easy, and acknowledge when we fall short.
 
 !!! success "Humility"
-    Our work informs decisions that affect the real lives of real people, whose individual values and preferences we cannot know.
+    Our work informs decisions that affect the real lives of real people, whose individual values and preferences we do not know.
     We understand the limitations of our expertise and celebrate the academic and community partners with whom we produce knowledge.
-    We mitigate our limitations by actively seeking out diverse perspectives and challenging our preexisting assumptions.
+    We mitigate our own limitations by actively seeking out diverse perspectives and challenging our preexisting assumptions.
 
 !!! success "Open Science"
     We make our research accessible to all levels of an inquiring society, amateur or professional.
@@ -38,6 +38,7 @@ Through mission-oriented basic research guided by community engagement, we devel
 
     * [Lab Carpentry](https://lab-carpentry.readthedocs.io/){:target="_blank"}
     * the [Advanced Reactors and Fuel Cycles](http://arfc.npre.illinois.edu/manual/){:target="_blank"} group at the University of Illinois at Urbana-Champaign
+    * the [Andersen Lab](andersenlab.org/dry-guide/){:target="_smart"} at Northwestern University
     * the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/manual/){:target="_blank"}  at University of Liverpool
     * the [Ocean Transport Group](https://ocean-transport.github.io/){:target="_blank"} at the Lamont-Doherty Earth Observatory
 
