@@ -16,10 +16,10 @@ Through mission-oriented basic research guided by community engagement, we devel
 
 !!! success "Academic Freedom"
     As academics, we enjoy the luxury of having freedom to question the status quo and explore new ideas.
-    It is our responsibility to imagine new possibilities and redefine engineering practice.
+    With this privilege comes a responsibility to imagine new possibilities and speak uncomfortable truths.
 
 !!! success "Equity"
-    We recognize the uncomfortable reality of systemic inequalities and seek to promote fairness, impartiality, and justice through our work.
+    We recognize the burdens of systemic inequalities and seek to promote fairness, impartiality, and justice through our work.
 
 !!! success "Excellence"
     We strive for excellence in all our activities and aim to be role models in all that we do.
