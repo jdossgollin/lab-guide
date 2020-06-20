@@ -2,7 +2,7 @@
 title: Lab Guide
 ---
 
-# Welcome to the Doss-Gollin Group Lab Guide
+# Welcome to the Doss-Gollin Group
 
 This document codifies lab practices and expectations for new and existing group members.
 This remains a living document and a work in progress; please contribute by forking the [GitHub repository](https://github.com/jdossgollin/lab-guide){:tagret="_blank"} and submitting your changes as a pull request (if you don't know how to do that, talk to James).

@@ -1,4 +1,4 @@
-# Harassment policy
+# Code of Conduct
 
 This harassment policy is a non-negotiable first step towards our [mission](/misison/) of building an inclusive and diverse environment.
 All members of the research group are required to agree with the following policy on harassment in the workplace.
