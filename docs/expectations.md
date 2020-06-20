@@ -24,14 +24,14 @@ One of the great advantages of working in academia is the flexible schedule.
 But this flexibility can also be a curse.
 Here are some general guidelines to help define what it means to be "at work":
 
-1. Aim for a 40 hour work-week on average. Academic work often occurs in bursts. Sometimes you are happy and excited to work an 80 hour week as you are on the cusp of a major breakthrough. You can balance these periods of intensity with slower-paced weeks at another time.
+1. Full-time lab members should aim for a 40 hour work-week on average. Academic work often occurs in bursts -- sometimes you are happy and excited to work a 60 hour week as you are on the cusp of a major breakthrough. You should balance these periods of intensity with slower-paced weeks at another time.
 1. Be available on communication channels on business days (Monday - Friday) during business hours (9am - 5pm).
-1. Take at least one day per week completely off from your work.
-1. Feel free to work remotely occasionally as it suits your personal and professional life. For example, if your family lives abroad, you may wish to spend a week or two working from their country. This should be the exception, not the rule.
-1. Be clear about when you are really on vacation, as opposed to working remotely. Don't ruin your recuperation by pretending to work; take real breaks.
+1. Take at least one day per week (ideally two) completely off from your work and study.
+1. Feel free to work remotely occasionally as it suits your personal and professional life.
+1. Clearly delineate to yourself, your lab group, and your friends and family when you are really on vacation, as opposed to working remotely.
 1. Students and postdocs should take 4 weeks of vacation per year.
-1. Travel dates for vacation and non-vacation remote work must be approved by James. These requests should be made via email, ideally one month before any planned travel.
-1. Be part of the intellectual and social life of the University. Participate in departmental activities as well as activities in other departments and institutes on campus (Kinder Institute, Data Science, Earth Science, Baker Institute, etc.).
+1. Travel dates for vacation and non-vacation remote work should be shared with and approved by James.
+1. Be part of the intellectual and social life of the University. Attend seminars, join campus organizations, and take advantage of cultural offerings.
 1. If circumstances (e.g., global pandemics) force us to work from home, coordinate with James to make sure you have the equipment you need. Do not take equipment from the lab without authorization.
 
 ## Roles and responsibilities
@@ -84,6 +84,7 @@ Undergraduate students in the research group have a few core responsibilities.
 1. Participate
 1. Meet college requirements
 1. Maintain average working rate of 10hrs/wk
+1. Track time spent working honestly and accurately
 1. Plan for the future
 1. Explore many paths
 1. Submit weekly reports

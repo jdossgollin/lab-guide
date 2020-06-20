@@ -7,10 +7,10 @@ The [Center for Open Science](https://www.cos.io/){:target="_blank"} writes that
 In this spirit:
 
 * We use open-source and reproducible tools so that that our peers can repeat, critique, and improve upon our work
-* We communicate our findings to our peers through openly available channels
-* We communicate that are relevant to the public _through channels that are convenient to the public_, not just to us
+* We communicate our findings and methods to our peers through open-access channels that facilitate intellectual progress
+* We actively communicate findings of relevance to the public through a range of appropriate channels
 
-## Reproducibility
+## Reproducible science
 
 Unless there are specific and compelling reasons (which should be documented and reviewed by peers), the necessary components of a scholarly work to provide reproducibility should be provided in a publicly accessible location and potentially as part of the scientific record.
 In the case of a simulation model, this would include:
@@ -20,9 +20,8 @@ In the case of a simulation model, this would include:
 * The parameter file or definitions file, and if applicable initial conditions, that ran the simulation
 * Analysis code that generated plots for the paper
 
-Sometimes we use tools (e.g., the [Borg MOEA](http://borgmoea.org/){:target="_blank"}) that we are free to use but that we do not have a license to disseminate.
-Our preference is, in general, to use fully open-source tools, but compromise is sometimes required.
-In this case the exact version of the external software should be documented and instructions for how to install it identically should be made clear -- easier is better.
+Although our preference is to use fully open-source tools, we occasionally use tools that we have a license to use but to disseminate.
+In this case the exact version of the external software should be documented and instructions for how to install it identically should be made clear.
 
 ### Toolkit
 
@@ -36,7 +35,7 @@ Some default tools that  we use to achieve these practices are listed in [tools]
 Don't try to learn everything at once -- build your skillset incrementally.
 And if you believe another tool will get the job done faster or better, go for it!
 
-### Software license
+### Software licensing
 
 Software and other research materials that we make available to the public must declare a license for re-use.
 All code generated in the lab should be open-source with a permissive (non-copyleft) license (MIT, BSD, or Apache).
@@ -47,13 +46,13 @@ For help choosing a license, see [https://choosealicense.com/licenses/](https://
 
 > Stodden, V. (2009). The legal framework for reproducible scientific research: licensing and copyright. Computing in Science Engineering, 11(1), 35–40. [https://doi.org/10.1109/MCSE.2009.19](https://doi.org/10.1109/MCSE.2009.19){:target="_blank"}
 
-## Communication
+## Communication and outreach
 
 From our [core values](/#core-values),
 
 > We seek to make our research accessible to all levels of an inquiring society, amateur or professional.
 
-This necessarily communicating methods and results to peers using scientific tools, and to the public through the channels they are already using.
+This necessarily involves communicating methods and results to peers using scientific tools, and to the public through  the channels.
 
 ### Scientific communication
 
@@ -66,12 +65,12 @@ In keeping with our open science principles, we:
 * publish conference slides and posters on permanent repositories like figshare and Zenodo
 * make GitHub repositories for papers publicly available at the time of submission to a journal
 * make software available through permissive licenses
-* write and share well-documented and clear scientific code
+* write and share clear and well-organized scientific code
 
 ### Public communication
 
-Some of our work is of general public interest of has the potential to inform policy.
-It is unfair that only the best-educated members of the public have access to this research -- particularly since the effects of floods and inadequate infrastructure disproportionately affect members of vulnerable and minoritized communities.
+Some of our work is of general public interest or has the potential to inform policy.
+It would be unfair to allow only the best-educated members of the public to have access to this research -- particularly since the effects of floods and inadequate infrastructure disproportionately affect members of vulnerable and minoritized communities.
 To try to ensure that all members of the public have access to our research, we:
 
 * summarize findings in non-technical blog posts
@@ -79,6 +78,25 @@ To try to ensure that all members of the public have access to our research, we:
 * use social media to share key findings
 * write 2-page policy briefs
 * develop communication plans with community organizations and stakeholders as part of initial research design
+* cultivate long-lasting relationships in the communities where we work
 
-It is very challenging to write about complex technical topics in a manner that is readily understandable to the public without compromising a realistic discussion of a study's limitations and flaws.
-Fortunately, help is available -- the [Rice Engineering Communications Team](https://engineering.rice.edu/communications){:target="_blank"} can be a resource (talk to James first!)
+It can be very challenging to write about complex technical topics in a manner that is readily understandable to the public.
+Too often, shoddy science communication either uses jargon and concepts that are alien to the public, or over-simplifies the limitations and subtleties of scientific research.
+To avoid making these mistakes, advantages of resources like the [Rice Engineering Communications Team](https://engineering.rice.edu/communications){:target="_blank"} (talk to James first).
+
+### Resources
+
+Writing is one of the most difficult and most important scientific skills.
+It is worth revisiting a good style guide regularly, such as:
+
+> Strunk, W. (1999). Elements of style. Place of publication not identified: Bartleby Library.
+
+or, for a more in-depth approach,
+
+> McCloskey, D. N. (2000). Economical writing. Prospect Heights, IL: Waveland Press.
+
+and for science writing in particular,
+
+> Schimel, J. (2012). Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded. Oxford ; New York: Oxford University Press.
+
+Digital copies of these books are available to group members.

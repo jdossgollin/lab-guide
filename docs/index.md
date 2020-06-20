@@ -1,5 +1,5 @@
 ---
-title: Lab Guide
+title: About
 ---
 
 # Welcome to the Doss-Gollin Group
@@ -15,20 +15,19 @@ Through mission-oriented basic research guided by community engagement, we devel
 ## Core values
 
 !!! success "Academic Freedom"
-    As academics, we enjoy the luxury of having freedom to question the status quo and explore new ideas.
+    As academics, we enjoy the luxuries of freedom and space that allow us question the status quo and explore new ideas.
     With this privilege comes a responsibility to imagine new possibilities and speak uncomfortable truths.
 
 !!! success "Equity"
-    We recognize the burdens of systemic inequalities and seek to promote fairness, impartiality, and justice through our work.
+    We recognize the burdens of systemic inequality and seek to promote fairness, impartiality, and justice.
 
 !!! success "Excellence"
     We strive for excellence in all our activities and aim to be role models in all that we do.
     We seek to do what is right, not what is easy, and acknowledge when we fall short.
 
 !!! success "Humility"
-    Our work informs decisions that affect the real lives of real people, whose individual values and preferences we do not know.
     We understand the limitations of our expertise and celebrate the academic and community partners with whom we produce knowledge.
-    We mitigate our own limitations by actively seeking out diverse perspectives and challenging our preexisting assumptions.
+    We manage our limitations by actively seeking out diverse perspectives and challenging our preexisting assumptions.
 
 !!! success "Open Science"
     We make our research accessible to all levels of an inquiring society, amateur or professional.
@@ -42,4 +41,4 @@ Through mission-oriented basic research guided by community engagement, we devel
     * the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/manual/){:target="_blank"}  at University of Liverpool
     * the [Ocean Transport Group](https://ocean-transport.github.io/){:target="_blank"} at the Lamont-Doherty Earth Observatory
 
-    Where text is copied verbatim, additional credit is given.
+    Thanks also to Jordy E. Padilla-Solis for feedback.

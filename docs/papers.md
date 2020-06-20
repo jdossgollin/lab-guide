@@ -42,6 +42,6 @@ For each paper written, a clean bibtex file should be used to keep track referen
 As coauthors recommend additional references, they should copy them into the bibtex file and then cite then in the document.
 It is the responsibility of the first author to check references for correctness before submitting a paper to a journal; we recommended using Zotero (with the Better BibTeX plugin) to manage references.
 
-## Credit
+!!! info "Credit"
 
-The text in this section borrows heavily from the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/manual/){:target="_blank"}  at University of Liverpool and the [Ocean Transport Group](ocean-transport.github.io/){:tagret="_blank"} at the Lamont-Doherty Earth Observatory.
+    The text in this section borrows heavily from the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/manual/){:target="_blank"}  at University of Liverpool and the [Ocean Transport Group](ocean-transport.github.io/){:tagret="_blank"} at the Lamont-Doherty Earth Observatory.
