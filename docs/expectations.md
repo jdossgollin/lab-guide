@@ -25,14 +25,13 @@ But this flexibility can also be a curse.
 Here are some general guidelines to help define what it means to be "at work":
 
 1. Full-time lab members should aim for a 40 hour work-week on average. Academic work often occurs in bursts -- sometimes you are happy and excited to work a 60 hour week as you are on the cusp of a major breakthrough. You should balance these periods of intensity with slower-paced weeks at another time.
-1. Be available on communication channels on business days (Monday - Friday) during business hours (9am - 5pm).
-1. Take at least one day per week (ideally two) completely off from your work and study.
+1. Take at least one day per week (preferably two) completely off from your work and study.
 1. Feel free to work remotely occasionally as it suits your personal and professional life.
 1. Clearly delineate to yourself, your lab group, and your friends and family when you are really on vacation, as opposed to working remotely.
 1. Students and postdocs should take 4 weeks of vacation per year.
 1. Travel dates for vacation and non-vacation remote work should be shared with and approved by James.
 1. Be part of the intellectual and social life of the University. Attend seminars, join campus organizations, and take advantage of cultural offerings.
-1. If circumstances (e.g., global pandemics) force us to work from home, coordinate with James to make sure you have the equipment you need. Do not take equipment from the lab without authorization.
+1. If circumstances (e.g., a global pandemic) force us to work from home, coordinate with James to make sure you have the equipment you need. Do not take equipment from the lab without authorization.
 
 ## Roles and responsibilities
 
@@ -52,7 +51,7 @@ As the group leader, James has a unique and challenging range of responsibilitie
 1. **Oversee the Publication Process:** Published paper are the main output of our team. The PI can help identify when results are ready to publish, select which journals to target, and help manage the ups and downs of the revision process.
 1. **Define the Technical Approach:** Software and computing are very important to our group. The PI is working hard to provide a software and hardware environment that enables everyone else to be as productive as possible.
 1. **Provide Moral Support:** Graduate school, and research in general, can be an emotional roller coaster. James has been through these challenges personally and is always available to listen and provide advice. See [Health and Wellness](/health/)
-1. **Provide Material Support:** You are never expected to spend any of your personal finances on anything related to research. All conference travel, computer supplies, books, etc. etc. can be paid for with grant support (see item 2 above). Coordinate these expenses, in advance, with James.
+1. **Provide Material Support:** You are never expected to spend any of your personal finances on anything related to research. All conference travel, computer supplies, books, etc. can be paid for with grant support (see item 2 above). Coordinate these expenses, in advance, with James.
 1. **Provide Recommendation Letters:** You need them for almost every career move.
 1. **Sign Stuff:** There are lots of signatures needed to navigate the bureaucracy.
 1. **Departmental Service:** The PI has lots of responsibilities to the department, including attending department meetings, participating in committees, and serving on student masters meetings / qualifying exams / thesis proposals / thesis defenses.
@@ -83,7 +82,7 @@ Undergraduate students in the research group have a few core responsibilities.
 1. Learn
 1. Participate
 1. Meet college requirements
-1. Maintain average working rate of 10hrs/wk
+1. Maintain average working rate of 10hrs/wk (unless otherwise discussed)
 1. Track time spent working honestly and accurately
 1. Plan for the future
 1. Explore many paths

@@ -31,7 +31,7 @@ Before learning specific tools, read
 > Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). Good enough practices in scientific computing. PLOS Computational Biology, 13(6), e1005510. [https://doi.org/10.1371/journal.pcbi.1005510](https://doi.org/10.1371/journal.pcbi.1005510){:target="_blank"}
 
 to understand **why** we use them and how each tool fits into our overall scientific workflow.
-Some default tools that  we use to achieve these practices are listed in [tools](/tools).
+Some default tools that  we use to achieve these practices are listed in [tools](/tools/overview/).
 Don't try to learn everything at once -- build your skillset incrementally.
 And if you believe another tool will get the job done faster or better, go for it!
 

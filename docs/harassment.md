@@ -1,14 +1,13 @@
 # Code of Conduct
 
-This harassment policy is a non-negotiable first step towards our [mission](/misison/) of building an inclusive and diverse environment.
-All members of the research group are required to agree with the following policy on harassment in the workplace.
-Additionally, we collectively agree to enforce this code, ensuring a safe environment for everyone.
+This harassment policy represents a non-negotiable first step towards our mission of building an inclusive, diverse, and equitable environment.
+All members of the research group are required to abide by the following policy on harassment in the workplace and to enforce these guidelines collectively.
 
 ## The quick version
 
 This research group is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
 We do not tolerate harassment of group members or other colleagues in any form.
-Sexual language and imagery is not appropriate for any professional setting, including talks, workshops, parties, Twitter and other online media.
+Sexual language and imagery is not appropriate for any professional setting, including talks, workshops, parties, Twitter, and other online media.
 Research group members violating these rules may be sanctioned or expelled from the group at the discretion of James Doss-Gollin.
 
 ## The less quick version

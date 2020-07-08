@@ -1,6 +1,6 @@
 # Health Resources
 
-!!! attention
+!!! important
     Your first priority should always be your own health, safety and well-being.
 
 No project, paper, grant or collaboration exists that is more important than you.
