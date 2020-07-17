@@ -18,16 +18,6 @@ At a very early stage in the paper writing process, they should circulate a pape
 This is helpful for avoiding later conflicts over authorship.
 The first author is also responsible for editing the document, managing and adding references, and complying with journal submission guides.
 
-## Openness
-
-As described in [Open Science](/open/), you should use open-source and reproducible tools with version control to write papers, within reason (e.g., if you are working with a collaborator who requires Microsoft Word's accessibility features).
-Although LaTeX has a steep learning curve, [Lorena A. Barba](https://lorenabarba.com/gallery/reproducibility-pi-manifesto/){:target="_blank"} points out that
-
-> When I have been obligated to use that method for collaborative writing (e.g., NSF panel report), I was miserable: multiple versions of a Word document are sent over email and people read over changes and "accept changes" and it takes an incredible amount of time. It hinders collaboration, it is unmanageable, error-prone, unsafe and laborious. My workflow—update, diff or merge if needed, edit (in portable and fast raw text), latex, bibtex, commit—is a breeze in comparison.
-> ... [these practices] have an immediate benefit in the protection of the knowledge being created in my research group. Code, data, writing and graphics are available to all members in the group, are curated, backed up, and shared openly.
-
-In addition to LaTeX, tools like Markdown with `pandoc-citeproc` that work with version control can be used, especially for first drafts of documents.
-
 ## Plagiarism and referencing
 
 Plagiarism is unacceptable in any form.

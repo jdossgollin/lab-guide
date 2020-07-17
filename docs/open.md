@@ -2,13 +2,17 @@
 
 The [Center for Open Science](https://www.cos.io/){:target="_blank"} writes that:
 
-> An open exchange of ideas accelerates scientific progress towards solving humanity's most persistent problems. The challenges of disease, poverty, education, social justice, and the environment are too urgent to waste time on studies lacking rigor, outcomes that are never shared, and findings that are not reproducible.
+> An open exchange of ideas accelerates scientific progress towards solving humanity's most persistent problems.
+> The challenges of disease, poverty, education, social justice, and the environment are too urgent to waste time on studies lacking rigor, outcomes that are never shared, and findings that are not reproducible.
 
 In this spirit:
 
 * We use open-source and reproducible tools so that that our peers can repeat, critique, and improve upon our work
 * We communicate our findings and methods to our peers through open-access channels that facilitate intellectual progress
 * We actively communicate findings of relevance to the public through a range of appropriate channels
+
+This page describes our approach to open science at a high level -- see the [toolkit page](/tools/overview/) to learn about specific tools we use.
+And don't worry if you're not familiar with all these tools; we'll teach you what you need to know 😉!
 
 ## Reproducible science
 

@@ -2,14 +2,14 @@
 title: About
 ---
 
-# Welcome to the Doss-Gollin Group
+# Welcome to the Doss-Gollin Research Group
 
 This document codifies lab practices and expectations for new and existing group members.
 This remains a living document and a work in progress.
 
 !!! info "Contribute"
     To suggest changes to this document, fork the [GitHub repository](https://github.com/jdossgollin/lab-guide){:tagret="_blank"} and submit your changes as a pull request.
-    If you don't know how to do that, visit the GitHub repository and [create an issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue){target="_blank"}.
+    If you don't know how to do that, visit the GitHub repository, [create an issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue){target="_blank"}, and we'll show you the rest 😁.
 
 ## Mission Statement
 
@@ -19,7 +19,7 @@ Through mission-oriented basic research guided by community engagement, we devel
 ## Core values
 
 !!! success "Creativity"
-    As academics, we enjoy the luxuries of freedom and space that allow us question the status quo and explore new ideas.
+    As academics, we enjoy the luxuries of freedom and space that allow us to question the status quo and explore new ideas.
     With this privilege comes a responsibility to imagine new possibilities and speak uncomfortable truths.
 
 !!! success "Equity"
@@ -45,4 +45,4 @@ Through mission-oriented basic research guided by community engagement, we devel
     * the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/manual/){:target="_blank"}  at University of Liverpool
     * the [Ocean Transport Group](https://ocean-transport.github.io/){:target="_blank"} at the Lamont-Doherty Earth Observatory
 
-    Thanks also to Jordy E. Padilla-Solis for feedback.
+    Thanks also to Jordy E. Padilla-Solis and Yash Vijay Amonkar for feedback.

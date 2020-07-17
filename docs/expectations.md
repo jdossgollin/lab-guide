@@ -2,6 +2,7 @@
 
 !!! info "Caveat"
     Guidelines from Rice University, Rice Engineering, and Rice CEE take precedence over this section.
+    If you believe that something on this page is at odds with university policy, please notify James.
 
 ## Lab presence
 
@@ -48,9 +49,9 @@ As the group leader, James has a unique and challenging range of responsibilitie
 1. **Provide Scientific Mentoring:** It is the PI’s responsibility to help the junior members in the group develop into mature, independent scientists, capable of defining and executing their own research programs.
 1. **Set Goals and Timelines:** The PI can help give structure to your project by defining specific milestones and timelines for their completion. Some people prefer to be closely managed in this way, while others may prefer a more hands-off approach.
 1. **Provide Feedback:** The PI is expected to provide feedback on all aspects of research, including defining hypotheses and formulating questions; identifying specific methods and technical approaches; identifying relevant datasets; writing and debugging scientific code; producing figures and visualizations; managing data; and writing and editing papers. Feedback is also available on course selection, overall career goals, and long-term strategy. As a 
-1. **Oversee the Publication Process:** Published paper are the main output of our team. The PI can help identify when results are ready to publish, select which journals to target, and help manage the ups and downs of the revision process.
+1. **Oversee the Publication Process:** Published papers are the main output of our team. The PI can help identify when results are ready to publish, select which journals to target, and help manage the ups and downs of the revision process.
 1. **Define the Technical Approach:** Software and computing are very important to our group. The PI is working hard to provide a software and hardware environment that enables everyone else to be as productive as possible.
-1. **Provide Moral Support:** Graduate school, and research in general, can be an emotional roller coaster. James has been through these challenges personally and is always available to listen and provide advice. See [Health and Wellness](/health/)
+1. **Provide Moral Support:** Graduate school, and research in general, can be an emotional roller coaster. James has been through these challenges personally and is always available to listen and provide advice (though you should also see the [Health Resources](/health/) page)
 1. **Provide Material Support:** You are never expected to spend any of your personal finances on anything related to research. All conference travel, computer supplies, books, etc. can be paid for with grant support (see item 2 above). Coordinate these expenses, in advance, with James.
 1. **Provide Recommendation Letters:** You need them for almost every career move.
 1. **Sign Stuff:** There are lots of signatures needed to navigate the bureaucracy.
