@@ -1,19 +1,16 @@
 # New Member Checklist
 
-When you join the lab (ideally within the first week),
-you will have a meeting with Leo to undergo the steps below for your induction.
-
-
 1. Go over this document. Contact James if you have any questions.
 1. Get added to the online resources:
 
-    * Slack
+    * Calendar
     * GitHub
-    * Group calendar
+    * Slack
+    * Trello
 
-1. Add yourself to the [group website](https://github.com/jdossgollin/jdossgollin.github.io){:target="_blank"}:
+1. Add yourself to the [group website](https://github.com/jdossgollin/jdossgollin.github.io){:target="_blank"} via a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests){:target="_blank} (don't know how? Reach out! You're not born knowing 😉):
 
     * add a **square** photo to `assets/images/people/`
-    * add yourself to `_data/people.yaml`
+    * add an entry to `_data/people.yaml`
 
 Now you're ready to make something brilliant!

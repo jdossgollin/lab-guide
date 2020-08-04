@@ -93,7 +93,7 @@ To avoid making these mistakes, advantages of resources like the [Rice Engineeri
 Writing is one of the most difficult and most important scientific skills.
 It is worth revisiting a good style guide regularly, such as:
 
-> Strunk, W. (1999). Elements of style. Place of publication not identified: Bartleby Library.
+> Strunk, W. (1999). Elements of style.
 
 or, for a more in-depth approach,
 
