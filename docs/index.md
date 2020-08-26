@@ -1,5 +1,5 @@
 ---
-title: About
+title: Welcome
 ---
 
 # Welcome to the Doss-Gollin Research Group
