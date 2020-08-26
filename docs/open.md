@@ -74,8 +74,8 @@ In keeping with our open science principles, we:
 ### Public communication
 
 Some of our work is of general public interest or has the potential to inform policy.
-It would be unfair to allow only the best-educated members of the public to have access to this research -- particularly since the effects of floods and inadequate infrastructure disproportionately affect members of vulnerable and minoritized communities.
-To try to ensure that all members of the public have access to our research, we:
+It would be unethical to allow only the best-educated members of the public to have access to this research -- particularly since the effects of floods, unsafe water, and inadequate infrastructure disproportionately affect members of vulnerable and marginalized communities.
+To attempt to ensure that all members of the public have access to our research, we:
 
 * summarize findings in non-technical blog posts
 * translate papers and communications as appropriate
@@ -84,9 +84,10 @@ To try to ensure that all members of the public have access to our research, we:
 * develop communication plans with community organizations and stakeholders as part of initial research design
 * cultivate long-lasting relationships in the communities where we work
 
+as appropriate.
 It can be very challenging to write about complex technical topics in a manner that is readily understandable to the public.
 Too often, shoddy science communication either uses jargon and concepts that are alien to the public, or over-simplifies the limitations and subtleties of scientific research.
-To avoid making these mistakes, advantages of resources like the [Rice Engineering Communications Team](https://engineering.rice.edu/communications){:target="_blank"} (talk to James first).
+To avoid making these mistakes, take advantage of resources like the [Rice Engineering Communications Team](https://engineering.rice.edu/communications){:target="_blank"} (talk to James first).
 
 ### Resources
 

@@ -1,6 +1,6 @@
-# Code of Conduct
+# Harassment
 
-This harassment policy represents a non-negotiable first step towards our mission of building an inclusive, diverse, and equitable environment.
+This policy on harassment represents a non-negotiable first step towards our mission of building an inclusive, diverse, and equitable environment.
 All members of the research group are required to abide by the following policy on harassment in the workplace and to enforce these guidelines collectively.
 
 ## The quick version
