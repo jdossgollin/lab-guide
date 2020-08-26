@@ -7,6 +7,7 @@ Python is a general purpose programming language with stable and high-performing
 You should install Python (version 3.6 or greater -- not version 2) using [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 This provides you with the `conda` package manager, which you can use to create Python "environments" on your computer.
 
+
 ## Getting started
 
 Read the [Chapter in Earth and Environmental Data Science](https://earth-env-data-science.github.io/lectures/core_python/python_fundamentals.html){:target="_blank"}
