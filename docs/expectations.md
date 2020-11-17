@@ -4,6 +4,9 @@
     Guidelines from Rice University, Rice Engineering, and Rice CEE take precedence over this section.
     If you believe that something on this page is at odds with university policy, please notify James.
 
+!!! info "Credit"
+    Specific language on this page comes from the [Ocean Transport Group](https://ocean-transport.github.io/){:target="_blank"} at the Lamont-Doherty Earth Observatory.
+
 ## Lab presence
 
 We work on issues of critical societal importance, and it is expected that  lab members will work with a degree of seriousness commensurate with these challenges.
@@ -30,9 +33,9 @@ Here are some general guidelines to help define what it means to be "at work":
 1. Feel free to work remotely occasionally as it suits your personal and professional life.
 1. Clearly delineate to yourself, your lab group, and your friends and family when you are really on vacation, as opposed to working remotely.
 1. Students and postdocs should take 4 weeks of vacation per year.
-1. Travel dates for vacation and non-vacation remote work should be shared with and approved by James.
+1. Travel dates for vacation and non-vacation remote work should be shared with and approved by James (expect a yes but it's good to make sure everyone's on the same page).
 1. Be part of the intellectual and social life of the University. Attend seminars, join campus organizations, and take advantage of cultural offerings.
-1. If circumstances (e.g., a global pandemic) force us to work from home, coordinate with James to make sure you have the equipment you need. Do not take equipment from the lab without authorization.
+1. If circumstances (e.g., a global pandemic!) force us to work from home, coordinate with James to make sure you have the equipment you need. Do not take equipment from the lab without coordination.
 
 ## Roles and responsibilities
 
@@ -88,7 +91,3 @@ Undergraduate students in the research group have a few core responsibilities.
 1. Submit weekly reports
 1. Attend lab meetings when possible
 1. Apply for scholarships, awards, and fellowships
-
-
-!!! info "Credit"
-    Specific language on this page comes from the [Ocean Transport Group](https://ocean-transport.github.io/){:target="_blank"} at the Lamont-Doherty Earth Observatory.

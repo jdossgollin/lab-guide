@@ -5,13 +5,12 @@ title: Welcome
 # Welcome to the Doss-Gollin Research Group
 
 This document codifies lab practices and expectations for new and existing group members.
-This remains a living document and a work in progress.
+This is intended to be a living document and remains a work in progress.
 
 !!! info "Contribute"
-    To suggest changes to this document, fork the [GitHub repository](https://github.com/jdossgollin/lab-guide){:tagret="_blank"} and submit your changes as a pull request.
-    If you don't know how to do that, visit the GitHub repository, [create an issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue){target="_blank"}, and we'll show you the rest 😁.
+    See the README file on of the [GitHub repo](https://github.com/jdossgollin/lab-guide/) for detailed instructions
 
-## Mission Statement
+## Mission
 
 Our mission is to support the social, environmental, and financial resilience of communities around the world by creatively informing the design and management of infrastructure systems.
 Through mission-oriented basic research guided by community engagement, we develop tools and methods to accurately, transparently, and collaboratively link decisions, outcomes, and preferences.
@@ -45,4 +44,5 @@ Through mission-oriented basic research guided by community engagement, we devel
     * the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/manual/){:target="_blank"}  at University of Liverpool
     * the [Ocean Transport Group](https://ocean-transport.github.io/){:target="_blank"} at the Lamont-Doherty Earth Observatory
 
-    Thanks also to Jordy E. Padilla-Solis and Yash Vijay Amonkar for feedback.
+    Where specific sections borrow not only ideas but also words, specific credit is given.
+    Thanks to Jordy E. Padilla-Solis and Yash Vijay Amonkar for feedback.

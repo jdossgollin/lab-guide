@@ -6,6 +6,7 @@
     * Calendar
     * GitHub
     * Slack
+    * Zotero
 
 1. Add yourself to the [group website](https://github.com/jdossgollin/jdossgollin.github.io){:target="_blank"} via a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests){:target="_blank} (don't know how? Reach out! You're not born knowing 😉):
 
