@@ -4,12 +4,4 @@ channels:
     - defaults
 dependencies:
     - python >= 3.7
-    - mkdocs>=1.1
     - pip
-    - weasyprint
-    - pip:
-          - mkdocs-material
-          - mkdocs-git-revision-date-localized-plugin
-          - mkdocs-awesome-pages-plugin
-          - mkdocs-pdf-export-plugin
-          - mkdocs-material-extensions

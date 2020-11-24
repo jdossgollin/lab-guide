@@ -16,27 +16,23 @@ See [Creating an Issue](https://docs.github.com/en/free-pro-team@latest/github/m
 
 If you're not familiar with the GitHub workflow for forking a repo, making changes, and submitting a pull request, check out this lab guide's [`git`/GitHub page](https://jdossgollin.github.io/lab-guide/tools/git/).
 
-### First time
+### Installing dependencies
 
 To get this code set up (with all dependencies) on your computer you will need [`conda`](https://jdossgollin.github.io/lab-guide/tools/conda/), [`git`](https://jdossgollin.github.io/lab-guide/tools/git/), and a [GitHub](https://jdossgollin.github.io/lab-guide/tools/git/) account.
 Once you have these tools 
 
 1. Clone or fork the repo
-1. Install `mkdocs` and `mike`: `conda env create --file environment.yml`
+1. Install required packages. There are several ways to do this, but the easiest is
 
-### Thereafter
+    1. `conda env create -f environment.yml`
+    1. `conda activate lab-guide`
+    1. `pip install -r requirements.txt`
+
+### Build
 
 Once you're set up, the following steps will let you edit and 
 
 1. Activate the conda environment: `conda activate lab-guide`
-1. Open repository in your [text editor] and make any you want edits
+1. Open repository in your text editor and make any you want edits
 1. Run `make serve` and open on your computer. You  will get a message that looks like `[I 200426 10:58:18 server:296] Serving on http://127.0.0.1:8000` in which case open `http://127.0.0.1:8000` in your web browser. You can keep making edits.
-1. Commit and push changes and submit a pull request if desired (see [`git`/GitHub page](https://jdossgollin.github.io/lab-guide/tools/git/))
-
-## To deploy
-
-*N.B.*: only the repository owner (me) can do this -- this is for my own reference!
-
-```bash
-mkdocs gh-deploy
-```
+1. Commit and push changes; submit a pull request if desired (see [`git`/GitHub page](https://jdossgollin.github.io/lab-guide/tools/git/) for info on how to create a PR). Once your PR is approved, GitHub Actions will automatically build the website
