@@ -11,3 +11,6 @@ serve:
 	$(info Make: building web site and serving to localhost:$(LOCALHOST))
 	export ENABLE_PDF_EXPORT=0 &&\
 	mkdocs serve
+
+deploy:
+	mkdocs gh-deploy
