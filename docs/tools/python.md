@@ -16,12 +16,13 @@ You can learn more about conda in this [Chapter](https://earth-env-data-science.
 
 ## Getting started
 
-* To start, ead the [Chapter in Earth and Environmental Data Science](https://earth-env-data-science.github.io/lectures/core_python/python_fundamentals.html){:target="_blank"}
+* To start, read the [Chapter in Earth and Environmental Data Science](https://earth-env-data-science.github.io/lectures/core_python/python_fundamentals.html){:target="_blank"}
+* The Pangeo project maintains a [list](https://github.com/pangeo-data/education-material/blob/master/README.md) of educational material for python in the geosciences
 * to write better code, watch Raymond Hettinger's 2015 PyCon talk [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M&list=LL&index=20&t=0s)
 * to understand object oriented programming, type hints, scripting, and `mypy` watch [Livecoding Madness - Let's Build a Deep Learning Library](https://www.youtube.com/watch?v=o64FV-ez6Gw) and [I don't like notebooks](https://www.youtube.com/watch?v=7jiPeIFXb6U) by Joel Grus
 * to learn about unit testing, work through the short course [Software Testing and Testing Automation with Python](https://leemangeophysicalllc.github.io/testing-with-python/) by Leeman Geophysical LLC
 
-## Helper tools
+## Toolkit
 
 While python is a great language, using consistent style and formatting makes it easier for others to work on:
 

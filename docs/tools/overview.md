@@ -8,4 +8,7 @@ At the same time, you are always free to experiment and try new tools --if somet
 This is how we learn!
 
 !!! attention
-    This section is still under construction
+    This section is intended to be a collaborative, living document.
+    Please share suggested changes!
+
+If you're interested in learning these tools, Fondren library offers a [Data at Rice Workshop](https://library.rice.edu/services/data-and-donuts-courses).
