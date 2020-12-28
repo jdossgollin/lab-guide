@@ -17,7 +17,7 @@ extra:
       link: https://linkedin.com/in/jamesdossgollin
 
 site_name: Doss-Gollin Group Lab Guide
-repo_name: jdossgollin/lab-guide
+repo_name: dossgollin-lab/lab-guide
 repo_url: https://github.com/dossgollin-lab/lab-guide
 
 markdown_extensions:
