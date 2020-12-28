@@ -1,11 +1,11 @@
 # [Doss-Gollin Group Lab Guide](http://jdossgollin.github.io/lab-guide/)
 
-This repository stores expectations and quickstart guides for the [Doss-Gollin Lab at Rice](https://jamesdossgollin.me).
+This repository stores expectations and quickstart guides for the [Doss-Gollin Lab at Rice](https://dossgollin-lab.github.io).
 Lab (and community!) members are welcome to view, make comments, and propose edits.
 
 ## To view
 
-Visit this page on the web at [https://jdossgollin.github.io/lab-guide](https://jdossgollin.github.io/lab-guide).
+Visit this page on the web at [https://jdossgollin.github.io/lab-guide](https://dossgollin-lab.github.io/lab-guide).
 
 ## To make comments
 
@@ -30,7 +30,7 @@ Once you have these tools
 
 ### Build
 
-Once you're set up, the following steps will let you edit and 
+Once you're set up, the following steps will let you edit and serve your changes
 
 1. Activate the conda environment: `conda activate lab-guide`
 1. Open repository in your text editor and make any you want edits

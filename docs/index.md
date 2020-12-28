@@ -1,11 +1,7 @@
----
-title: Welcome
----
-
-# Welcome to the Doss-Gollin Research Group
+# Welcome
 
 This document codifies lab practices and expectations for new and existing group members.
-This is intended to be a living document and remains a work in progress.
+This is intended to be a **living document** and remains a work in progress.
 
 !!! info "Contribute"
     See the README file on of the [GitHub repo](https://github.com/jdossgollin/lab-guide/) for detailed instructions
@@ -22,7 +18,7 @@ Through mission-oriented basic research guided by community engagement, we devel
     With this privilege comes a responsibility to imagine new possibilities and speak uncomfortable truths.
 
 !!! success "Equity"
-    We recognize the burdens of systemic inequality and seek to promote fairness, impartiality, and justice.
+    We recognize the burdens of systemic inequality and seek to promote fairness and justice.
 
 !!! success "Excellence"
     We strive for excellence in all our activities and aim to be role models in all that we do.
@@ -33,7 +29,9 @@ Through mission-oriented basic research guided by community engagement, we devel
     We overcome our limitations by actively seeking out diverse perspectives and challenging our preexisting assumptions.
 
 !!! success "Open Science"
-    We make our research accessible to all levels of an inquiring society, amateur or professional.
+    Our research is accessible to all levels of society.
+    We approach complex problems with a collaborative mindset.
+    When we make mistakes, we recognize them and do our best to fix them.
 
 !!! info "Credit"
     The organization and framing of this document borrows heavily from lab guides written by
@@ -43,6 +41,10 @@ Through mission-oriented basic research guided by community engagement, we devel
     * the [Andersen Lab](andersenlab.org/dry-guide/){:target="_smart"} at Northwestern University
     * the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/manual/){:target="_blank"}  at University of Liverpool
     * the [Ocean Transport Group](https://ocean-transport.github.io/){:target="_blank"} at the Lamont-Doherty Earth Observatory
+    * the [Aly lab at Columbia University](https://github.com/alylab/labmanual){:target="_blank"} and associated [Nature Paper](aly_labguide:2018){:target="_blank"}
 
     Where specific sections borrow not only ideas but also words, specific credit is given.
-    Thanks to Jordy E. Padilla-Solis and Yash Vijay Amonkar for feedback.
+    Thanks also to the following contributors for their comments and suggestions:
+    
+    * Jordy E. Padilla-Solis
+    * Yash Vijay Amonkar

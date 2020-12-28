@@ -10,7 +10,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/jdossgollin
+      link: https://github.com/dossgollin-lab
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/jdossgollin
     - icon: fontawesome/brands/linkedin
@@ -18,7 +18,7 @@ extra:
 
 site_name: Doss-Gollin Group Lab Guide
 repo_name: jdossgollin/lab-guide
-repo_url: https://github.com/jdossgollin/lab-guide
+repo_url: https://github.com/dossgollin-lab/lab-guide
 
 markdown_extensions:
   - admonition
@@ -37,6 +37,3 @@ plugins:
   - awesome-pages
   - git-revision-date-localized:
       type: date
-  - pdf-export:
-      enabled_if_env: ENABLE_PDF_EXPORT
-      combined: true

@@ -14,6 +14,11 @@ In this spirit:
 This page describes our approach to open science at a high level -- see the [toolkit page](/tools/overview/) to learn about specific tools we use.
 And don't worry if you're not familiar with all these tools; we'll teach you what you need to know 😉!
 
+## Timing
+
+Generally, we will make our data and code publicly available simultaneously with the submission of the paper to a peer-reviewed journal.
+Please discuss with James and collaborators.
+
 ## Reproducible science
 
 Unless there are specific and compelling reasons (which should be documented and reviewed by peers), the necessary components of a scholarly work to provide reproducibility should be provided in a publicly accessible location and potentially as part of the scientific record.
