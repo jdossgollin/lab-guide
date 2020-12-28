@@ -41,7 +41,7 @@ Through mission-oriented basic research guided by community engagement, we devel
     * the [Andersen Lab](andersenlab.org/dry-guide/){:target="_smart"} at Northwestern University
     * the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/manual/){:target="_blank"}  at University of Liverpool
     * the [Ocean Transport Group](https://ocean-transport.github.io/){:target="_blank"} at the Lamont-Doherty Earth Observatory
-    * the [Aly lab at Columbia University](https://github.com/alylab/labmanual){:target="_blank"} and associated [Nature Paper](aly_labguide:2018){:target="_blank"}
+    * the [Aly lab at Columbia University](https://github.com/alylab/labmanual){:target="_blank"} and associated [Nature Paper](https://doi.org/10/gd4vfk){:target="_blank"}
 
     Where specific sections borrow not only ideas but also words, specific credit is given.
     Thanks also to the following contributors for their comments and suggestions:
