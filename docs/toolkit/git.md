@@ -1,4 +1,4 @@
-# Git and GitHub
+# git and GitHub
 
 `git` is a version control system for software.
 We use `git` to track and save code that we're working on.

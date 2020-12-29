@@ -11,13 +11,8 @@ In this spirit:
 * We communicate our findings and methods to our peers through open-access channels that facilitate intellectual progress
 * We actively communicate findings of relevance to the public through a range of appropriate channels
 
-This page describes our approach to open science at a high level -- see the [toolkit page](/tools/overview/) to learn about specific tools we use.
+This page describes our approach to open science at a high level -- see the [toolkit page](/toolkit/overview/) to learn about specific tools we use.
 And don't worry if you're not familiar with all these tools; we'll teach you what you need to know 😉!
-
-## Timing
-
-Generally, we will make our data and code publicly available simultaneously with the submission of the paper to a peer-reviewed journal.
-Please discuss with James and collaborators.
 
 ## Reproducible science
 
@@ -28,6 +23,13 @@ In the case of a simulation model, this would include:
 * The source code that ran the simulation
 * The parameter file or definitions file, and if applicable initial conditions, that ran the simulation
 * Analysis code that generated plots for the paper
+
+### Timing
+
+Generally, we will make our data and code publicly available simultaneously with the submission of the paper to a peer-reviewed journal.
+Please discuss with James and collaborators.
+
+### Open and Closed Source
 
 Although our preference is to use fully open-source tools, we occasionally use tools that we have a license to use but to disseminate.
 In this case the exact version of the external software should be documented and instructions for how to install it identically should be made clear.
@@ -40,20 +42,9 @@ Before learning specific tools, read
 > Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). Good enough practices in scientific computing. PLOS Computational Biology, 13(6), e1005510. [https://doi.org/10.1371/journal.pcbi.1005510](https://doi.org/10.1371/journal.pcbi.1005510){:target="_blank"}
 
 to understand **why** we use them and how each tool fits into our overall scientific workflow.
-Some default tools that  we use to achieve these practices are listed in [tools](/tools/overview/).
+Some default tools that  we use to achieve these practices are listed in [tools](/toolkit/overview/).
 Don't try to learn everything at once -- build your skillset incrementally.
 And if you believe another tool will get the job done faster or better, go for it!
-
-### Software licensing
-
-Software and other research materials that we make available to the public must declare a license for re-use.
-All code generated in the lab should be open-source with a permissive (non-copyleft) license (MIT, BSD, or Apache).
-If contributions to upstream copyleft projects are made, those contributions can be licensed in accordance with the upstream project license.
-
-Importantly, in the lab we should cultivate an atmosphere of respect for licensing terms and ensuring that we are at all times in compliance with those terms.
-For help choosing a license, see [https://choosealicense.com/licenses/](https://choosealicense.com/licenses/){:target="_blank"} or read
-
-> Stodden, V. (2009). The legal framework for reproducible scientific research: licensing and copyright. Computing in Science Engineering, 11(1), 35–40. [https://doi.org/10.1109/MCSE.2009.19](https://doi.org/10.1109/MCSE.2009.19){:target="_blank"}
 
 ## Communication and outreach
 
@@ -93,20 +84,3 @@ as appropriate.
 It can be very challenging to write about complex technical topics in a manner that is readily understandable to the public.
 Too often, shoddy science communication either uses jargon and concepts that are alien to the public, or over-simplifies the limitations and subtleties of scientific research.
 To avoid making these mistakes, take advantage of resources like the [Rice Engineering Communications Team](https://engineering.rice.edu/communications){:target="_blank"} (talk to James first).
-
-### Resources
-
-Writing is one of the most difficult and most important scientific skills.
-It is worth revisiting a good style guide regularly, such as:
-
-> Strunk, W. (1999). Elements of style.
-
-or, for a more in-depth approach,
-
-> McCloskey, D. N. (2000). Economical writing. Prospect Heights, IL: Waveland Press.
-
-and for science writing in particular,
-
-> Schimel, J. (2012). Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded. Oxford ; New York: Oxford University Press.
-
-Digital copies of these books are available to group members.

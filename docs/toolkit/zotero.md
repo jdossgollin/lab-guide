@@ -1,6 +1,4 @@
----
-title: Zotero
----
+# Zotero
 
 If you're going to read scientific papers and manage references, you should use a modern reference manager.
 Zotero stands out because it is open access, freely available with [unlimited](https://library.rice.edu/news/new-subscription-unlimited-file-syncing-storage-rice-zotero-users) through Fondren library, extensible through a range of plugins, and lets you annotate using your PDF reader of choice.

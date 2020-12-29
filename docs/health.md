@@ -1,4 +1,4 @@
-# Health Resources
+# Health and Wellbeing
 
 !!! important
     Your first priority should always be your own health, safety and well-being.
@@ -22,6 +22,7 @@ With this in mind, **our group strives to do everything possible to support lab 
 The vacation and workload expectations defined in [Roles and Responsibilities](/expectations/) are a big part of this.
 Some other tips, based on experience, are the following:
 
+1. Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick. (This will continue to be important even if and when COVID-19 is a memory).
 1. Maintain a healthy sleep schedule.
 1. Pursue interests and hobbies outside of your work. These help relieve stress. They also benefit your research! Stepping away from your problem and letting your mind wander elsewhere is, counterintuitively, a great way to stimulate creative thought.
 1. Develop a support network among your peers. They understand the struggle!

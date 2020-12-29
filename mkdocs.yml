@@ -1,11 +1,11 @@
 theme:
   name: material
   font:
-    text: Roboto
+    text: Open Sans
     code: Fira Code
   icon:
     logo: material/account-group-outline
-    repo: fontawesome/brands/github
+    repo: fontawesome/brands/github-square
 
 extra:
   social:

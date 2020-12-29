@@ -1,8 +1,4 @@
----
-title: UNIX
----
-
-# The UNIX shell
+# UNIX and the Shell
 
 To work on a cluster or in the cloud, or just plain run commands on your laptop, you'll slowly become familiar with the UNIX shell (also known as the command line).
 If you've never run anything from the command line then it may take you a while to get used to using the computer this way, but it's an essential data science skill and very powerful.

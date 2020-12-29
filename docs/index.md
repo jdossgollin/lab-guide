@@ -1,10 +1,17 @@
 # Welcome
 
 This document codifies lab practices and expectations for new and existing group members.
-This is intended to be a **living document** and remains a work in progress.
+
+This lab guide is divided into three main sections:
+
+1. Our values and general responsibilities
+1. Quickstart manuals for software and tools that we use
+1. Specific policies for lab activities
 
 !!! info "Contribute"
-    See the README file on of the [GitHub repo](https://github.com/jdossgollin/lab-guide/) for detailed instructions
+    This is intended to be a **living document** and remains a work in progress.
+    Lab and community members are strongly encouraged to contribute to this document!
+    See the README file on of the [GitHub repo](https://github.com/jdossgollin/lab-guide/) for detailed instructions.
 
 ## Mission
 
