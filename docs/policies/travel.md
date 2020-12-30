@@ -17,20 +17,20 @@ Lab members are required to apply for other sources of funding available to them
 
 Lab members may sometimes book shared accommodations (e.g, AirBnB) for travel.
 This can save money and be more pleasant than staying at a hotel.
-However, if you don't feel comfortable in a shared space you are welcome to arrange other accommodation -- no explanation needed.
+However, if you don't feel comfortable in a shared space you are welcome to arrange other accommodation.
+Your individual safety and comfort in your lodging space should be of chief concern.
 
 ## Conduct
 
-All lab expectations of conduct apply to all members who are traveling.
-Specific codes of conduct may apply to conferences and workshops, and lab members should follow those.
+All expectations of conduct apply to members who are traveling.
+Conferences and workshops may have further guidelines for conduct, and members are expected to follow both the letter and the spirit of these guidelines.
 
 ## Safety
 
 Informal meetings and get-togethers, often at bars and restaurants, are an important component of many academic conferences and workshops.
 These can be a fun and enjoyable way to develop long-lasting connections with colleagues at other institutions and to explore the cities where conferences are held.
 Informal gatherings are also important for networking and can lead to future job offers and other opportunities.
-
-However, uncomfortable and unsafe situations can arise, particularly where the power dynamics of academia are mixed with relaxed settings and alcohol.
+Unfortunately, uncomfortable and unsafe situations can arise in these settings, particularly where the power dynamics of academia are mixed with relaxed settings and alcohol.
 When traveling away from Rice University, group members should exercise caution to look after their own safety and that of other group members they are traveling with.
 
 * Have contact information (e.g., cell phone numbers) of other group members you are traveling with.
