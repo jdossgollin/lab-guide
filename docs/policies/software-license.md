@@ -1,4 +1,4 @@
-# Licenses
+# Software Licenses
 
 Software and other research materials that we make available to the public must declare a license for re-use.
 

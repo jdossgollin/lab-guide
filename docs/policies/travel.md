@@ -1,4 +1,4 @@
-# Lab Travel
+# Travel
 
 !!! info "Credit"
     Specific language on this page comes from the [MemoLab](https://github.com/memobc/memolab-manual){:target="_blank"} at Boston College.
