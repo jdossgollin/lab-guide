@@ -5,7 +5,7 @@ Once renovations are complete and work from home instructions are lifted, users 
 
 ## Conference Room
 
-Anyone can view room availability [here](https://calendar.google.com/calendar/u/0?cid=Y19oMmdlZThtdmdiOXVjODMzM2UyYnUzZm82c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+Anyone can view room availability below.
 However, only approved group members can book the space.
 
 To book the conference room:
@@ -15,3 +15,5 @@ To book the conference room:
 1. James reserves the right to override existing space reservations as needed.
 
 See [official instructions](https://support.google.com/calendar/answer/44105) for more details
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FChicago&amp;showTitle=1&amp;src=Y19oMmdlZThtdmdiOXVjODMzM2UyYnUzZm82c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%237986CB&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>

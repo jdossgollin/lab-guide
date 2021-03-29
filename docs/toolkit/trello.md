@@ -1,3 +1,0 @@
-# Trello
-
-More information forthcoming

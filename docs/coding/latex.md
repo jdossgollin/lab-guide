@@ -3,7 +3,6 @@
 `LaTeX` is a tricky but powerful language for writing academic documents.
 
 * [Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes){:target="_blank"}
-* Some [Templates](github.com/jdossgollin/templates) I wrote
 
 ## Reference and bibliography
 

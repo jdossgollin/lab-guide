@@ -17,7 +17,7 @@ If you have external funding or a specific research idea, you can reach out (see
 
 ## How to Apply
 
-Apply to the program of your choice in the [Department of Civil and Environmental Engineering](https://cee.rice.edu/graduate-program).
+Apply to the program of your choice in the [Department of Civil and Environmental Engineering](https://cee.rice.edu/academics/graduate-programs/phd-program).
 See [Rice graduate admission guidelines](https://graduate.rice.edu/admissions/how-to-apply).
 It is **your responsibility** to keep track of all required deadlines, materials, etc.
 

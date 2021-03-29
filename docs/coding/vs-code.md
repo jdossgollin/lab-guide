@@ -4,7 +4,7 @@ title: VS Code
 
 Our text editor of choice is Visual Studio Code, or VS Code for short.
 It has lots of extensions and features that make life easy for us.
-It's also the preferred editor for [Julia](../toolkit/julia) and has good support for [Python](../toolkit/python) and [LaTeX](../toolkit/latex) as well as other languages we use (stan, C++, yaml, Markdown, etc).
+It's also the preferred editor for [Julia](./julia.md) and has good support for [Python](./python.md) and [LaTeX](./latex.md) as well as other languages we use (stan, C++, yaml, Markdown, etc).
 
 Some additional resources:
 
