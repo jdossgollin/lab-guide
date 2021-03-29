@@ -19,7 +19,7 @@ If you feel you may be facing mental health challenges, don't worry that your pr
 ## Staying healthy
 
 With this in mind, **our group strives to do everything possible to support lab members** and ensure a healthy work-life balance.
-The vacation and workload expectations defined in [Roles and Responsibilities](/expectations/) are a big part of this.
+The vacation and workload expectations defined in [Roles and Responsibilities](../expectations/) are a big part of this.
 Some other tips, based on experience, are the following:
 
 1. Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick. (This will continue to be important even if and when COVID-19 is a memory).

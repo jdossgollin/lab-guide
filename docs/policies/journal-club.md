@@ -1,6 +1,6 @@
 # Journal Club
 
-Regular journal clubs are organized on [Slack](../slack), [Trello](../trello), [Zotero](../zotero), and [Google Calendar](https://calendar.google.com/calendar/embed?src=c_3pod0rrs9khosihbkktf127eag%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}:
+Regular journal clubs are organized on [Slack](../slack), [Trello](../trello), [Zotero](../zotero), and [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y19oMmdlZThtdmdiOXVjODMzM2UyYnUzZm82c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t){:target="_blank"}:
 
 - `#journal-club` Slack channel
 - `journal-club` Trello board

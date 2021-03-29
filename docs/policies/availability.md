@@ -10,7 +10,7 @@ Working hard means:
 
 * applying consistent, focused effort to your research in a serious, professional way
 * working with a sense of urgency appropriate to the intellectual challenges we study and their real-world consequences
-* [caring](/health/) for your physical, spiritual, mental, and emotional well-being
+* [caring](../health/) for your physical, spiritual, mental, and emotional well-being
 * sharing ideas and effort with lab members and collaborators
 
 Working hard **does not mean**:

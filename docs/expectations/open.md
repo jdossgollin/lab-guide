@@ -11,7 +11,7 @@ In this spirit:
 * We communicate our findings and methods to our peers through open-access channels that facilitate intellectual progress
 * We actively communicate findings of relevance to the public through a range of appropriate channels
 
-This page describes our approach to open science at a high level -- see the [toolkit page](../codingcoding//) to learn about specific tools we use.
+This page describes our approach to open science at a high level -- see the [toolkit page](../codingcoding/) to learn about specific tools we use.
 And don't worry if you're not familiar with all these tools; we'll teach you what you need to know 😉!
 
 ## Reproducible science
@@ -42,7 +42,7 @@ Before learning specific tools, read
 > Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). Good enough practices in scientific computing. PLOS Computational Biology, 13(6), e1005510. [https://doi.org/10.1371/journal.pcbi.1005510](https://doi.org/10.1371/journal.pcbi.1005510){:target="_blank"}
 
 to understand **why** we use them and how each tool fits into our overall scientific workflow.
-Some default tools that  we use to achieve these practices are listed in [tools](../codingcoding//).
+Some default tools that  we use to achieve these practices are listed in [tools](../coding/).
 Don't try to learn everything at once -- build your skillset incrementally.
 And if you believe another tool will get the job done faster or better, go for it!
 

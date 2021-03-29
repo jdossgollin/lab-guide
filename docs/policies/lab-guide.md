@@ -11,13 +11,13 @@ For further instructions, see [Creating an Issue](https://docs.github.com/en/fre
 
 Start by making a comment (see above).
 Then, put together a pull request to suggest edits.
-If you're not familiar with the GitHub workflow for forking a repo, making changes, and submitting a pull request, check out this lab guide's [`git`/GitHub page](https://dossgollin-lab.github.io/lab-guide/coding/git/).
+If you're not familiar with the GitHub workflow for forking a repo, making changes, and submitting a pull request, check out this lab guide's [`git`/GitHub page](../../coding/git/).
 
 Before you submit a pull request, you may want to develop this lab guide on your own computer.
 
 ### Installing dependencies
 
-To get this code set up (with all dependencies) on your computer you will need [`conda`](../../coding/conda/), [`git`](../../git), and a [GitHub](../../git) account.
+To get this code set up (with all dependencies) on your computer you will need [`conda`](../../coding/conda), [`git`](../../coding/git), and a [GitHub](../../coding/git) account.
 Once you have these tools:
 
 1. Fork the repo. This will create a GitHub repository `/your_github_name/lab-guide`
