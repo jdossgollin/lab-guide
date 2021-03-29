@@ -1,10 +1,5 @@
-arrange:
+nav:
   - index.md
-  - harassment.md
-  - expectations.md
-  - health.md
-  - open.md
-  - writing.md
-  - checklist.md
-  - toolkit
-  - policies
+  - Expectations and Conduct: "expectations"
+  - Coding Resources: "coding"
+  - Team Resources: "policies"

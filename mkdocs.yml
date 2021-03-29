@@ -7,6 +7,9 @@ theme:
     logo: material/account-group-outline
     repo: fontawesome/brands/github-square
 
+# if there are broken links, throw an error
+strict: true
+
 extra:
   social:
     - icon: fontawesome/brands/github
