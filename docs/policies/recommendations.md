@@ -1,7 +1,7 @@
 # Recommendation Letters
 
 !!! info "Credit"
-    Specific language on this page comes from the [Peelle Lab](http://jpeelle.net/peellelab_manual.pdf){:target="_blank"} at Washington University in Saint Louis.
+    Specific language on this page comes from the [Peelle Lab](http://peellelab.org/){:target="_blank"} at Washington University in Saint Louis.
 
 I (James) will write a letter for any student or lab member who has spent at least one year in the lab.
 Letters will be provided for shorter-term lab members in exceptional circumstances (e.g., new graduate students or postdocs applying for fellowships).
