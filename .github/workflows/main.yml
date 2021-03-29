@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     # run only on upstream, not on downstream
-    if: github.repository == "dossgollin-lab/lab-guide"
+    if: github.repository == 'dossgollin-lab/lab-guide'
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
