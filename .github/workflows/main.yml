@@ -5,8 +5,6 @@ on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
     branches: [master]
-  pull_request:
-    branches: [master]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -20,10 +18,9 @@ jobs:
     runs-on: ubuntu-latest
 
     # run only on upstream, not on downstream
+    if: ${{ github.repository == "dossgollin-lab/lab-guide" }}
 
-    if: github.repository == "dossgollin-lab/lab-guide"
     # Steps represent a sequence of tasks that will be executed as part of the job
-
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
