@@ -28,7 +28,7 @@ You *must* follow these guidelines if you are listed as an author or coauthor on
 
 To facilitate conversations about authorship, contribution, and research design, we write paper contracts early in the research design process.
 Paper contracts lay out the paper's research questions, hypotheses, broad methodology, author line, submission plan, and author contributions.
-Templates and details are given on the Papers board in the group's [Trello](../trello).
+Templates and details are given on the Papers board in the group's [Trello](./trello.md).
 
 [^uncertainty]: Accurately characterizing uncertainty is difficult; we do our best and then try to be transparent about assumptions, honest about limitations, and open about exposing our tools and methods to critique.
 [^order]: This may vary by journal. In some fields the norm is to order authors alphabetically or (to avoid disadvantaging authors whose names begin with Z) randomly. Check the expectations for the journal to which you are submitting.

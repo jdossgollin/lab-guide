@@ -73,12 +73,12 @@ To improve the level of writing in the group:
 
 ## Toolkit
 
-We use a writing toolkit that reflects our [open science](../open) mission.
+We use a writing toolkit that reflects our [open science](../expectations/open.md) mission.
 Specifically:
 
 * we make our writing open to the public and the scientific community by the time our work is published
-* we use [version control](../../coding/git){:target="_blank"} to track changes and contribution
-* we use plain text tools (like [Markdown](../../coding/markdown) or [LaTeX](../../coding/latex)) that work with version control and that do not require specialized software.[^dealerschoice][^accessible]
+* we use [version control](../coding/git.md){:target="_blank"} to track changes and contribution
+* we use plain text tools (like [Markdown](../coding/markdown/,d) or [LaTeX](../coding/latex.md)) that work with version control and that do not require specialized software.[^dealerschoice][^accessible]
 
 [^dealerschoice]: Many collaborators use Google Docs or Microsoft Word; in these cases the convention is for the first author to choose the toolkit.
 [^accessible]: If coauthors need accessibility features available only in a specific software, then we always prioritize inclusivity over dogmatic choice of software!

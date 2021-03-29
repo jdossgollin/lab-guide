@@ -11,13 +11,13 @@ For further instructions, see [Creating an Issue](https://docs.github.com/en/fre
 
 Start by making a comment (see above).
 Then, put together a pull request to suggest edits.
-If you're not familiar with the GitHub workflow for forking a repo, making changes, and submitting a pull request, check out this lab guide's [`git`/GitHub page](../../coding/git/).
+If you're not familiar with the GitHub workflow for forking a repo, making changes, and submitting a pull request, check out this lab guide's [`git`/GitHub page](../coding/git.md).
 
 Before you submit a pull request, you may want to develop this lab guide on your own computer.
 
 ### Installing dependencies
 
-To get this code set up (with all dependencies) on your computer you will need [`conda`](../../coding/conda), [`git`](../../coding/git), and a [GitHub](../../coding/git) account.
+To get this code set up (with all dependencies) on your computer you will need [`conda`](../coding/conda.md), [`git`](../coding/git.md), and a [GitHub](../coding/git.md) account.
 Once you have these tools:
 
 1. Fork the repo. This will create a GitHub repository `/your_github_name/lab-guide`
@@ -41,5 +41,5 @@ Once you're set up, the following steps will let you edit and serve your changes
 Once the web site looks the way you want:
 
 1. Commit and push changes.
-1. Submit a pull request (PR) (see [`git`/GitHub page](https://dossgollin-lab.github.io/lab-guide/coding/git/) for info on how to create a PR)
+1. Submit a pull request (PR) (see [`git`/GitHub page](../coding/git.md) for info on how to create a PR)
 1. Once your PR is approved, GitHub Actions will automatically build the website. No need to do anything!
