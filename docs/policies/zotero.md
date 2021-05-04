@@ -15,5 +15,18 @@ To learn more:
 
 Several plugins extend the base functionality of Zotero
 
-* [Better BibTex](https://retorque.re/zotero-better-bibtex/installation/) provides manual and automated export to bibtex
-* You should install Zotero connectors in your browser and, if you use it, Microsoft Word
+1. [Better BibTeX](https://retorque.re/zotero-better-bibtex/installation/) provides manual and automated export to bibtex
+1. You should install Zotero connectors in your browser and, if you use it, Microsoft Word
+
+## Better BibTeX
+
+If we all use the same settings, we will produce the same `.bib` files from our Zotero libraries.
+For each project it is the responsibility of the first author to make the final `.bib` file correct.
+
+1. Go to settings, Better BibTeX and then "Citation key format" and enter this key: `[auth:lower]_[ShortTitle:lower]:[year]`.
+1. Check the box to "force citation to plain text"
+1. Go to the export tab:
+    1. check the boxes to export unicode as plain-text latex commands
+    1. check the box to use BibLaTeX extended name format
+    1. check the box to extract JSTOR/Google Books/PubMed info into eprint fields
+    1. Put the following in "fields to omit": `abstract,file,annotation,local-url,rating,read,uri,keywords,`
