@@ -9,10 +9,18 @@ I maintain this policy because I do not think that I can adequately evaluate som
 
 ## How To
 
-1. I expect at least two weeks of notice for letters of recommendation and request four. If you do not give me sufficient time, I may not be able to meet your deadline.
-1. Send me your current CV and any relevant instructions for the contents of the letter.
-1. If you are an undergraduate, I will write your letters on my own. For more senior lab members, I will also write your letters on my own, but please send me a draft of the letter (which I will extensively modify). The first fewtimes you do this it will probably feel awkward. However, keep in mind thatyour goal is to make it as easy as possible for a letter writer (in this case, me) to complete the task by the deadline and without error. Even though I will re-word a lot of the letter, it will still have the name of what you are applyingfor and details regarding how long I have known you, the projects you haveworked on, and so on. This is extremely helpful in jogging my memory and will give me more time to focus on saying good things bout you. The more specifics you can provide, the better. Don't worry that you are not being sufficiently humble; I have no problem toning things down if need be. 
+1. I request **at least three weeks of notice for letters of recommendation** and request more. If you have asked me for a similar letter in the past, then less time is probably OK. If something comes up and you have to ask me for a letter with less advance notice I will do my best to accommodate but might have to say no.
+1. Provide key information in a single email to me (this is one of a few things that shouldn't go on Slack)
+    1. Deadline of the letter
+    1. Main things to focus on:
+        1. What do you hope that I will say about you?
+        1. How will your application be evaluated?
+        1. Why am I particularly well suited to write you a letter of application?
+    1. Any materials you have submitted as part of your application (it's OK if these are draft materials)
+    1. Clear instructions on how to submit the letter.
+    1. Provide a critical self-assessment. What are your strong points? What are points for growth? This is part of the letter, so if you can provide suggestions 
+1. Provide updates as the deadline approaches
 
 ## Pro Tips
 
-You are encouraged to read [How to get a great letter of recommendation](http://matt.might.net/articles/how-to-recommendation-letter/){:target="_blank"} by Matt Might.
+You are encouraged to read advice like [How to get a great letter of recommendation](http://matt.might.net/articles/how-to-recommendation-letter/){:target="_blank"} by Matt Might.

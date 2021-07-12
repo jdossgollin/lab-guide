@@ -1,3 +1,0 @@
-# Markdown
-
-More information forthcoming
