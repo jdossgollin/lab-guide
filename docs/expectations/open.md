@@ -11,8 +11,7 @@ In this spirit:
 * We communicate our findings and methods to our peers through open-access channels that facilitate intellectual progress
 * We actively communicate findings of relevance to the public through a range of appropriate channels
 
-This page describes our approach to open science at a high level -- see the `Coding Resources` tab to learn about specific tools we use.
-And don't worry if you're not familiar with all these tools; we'll teach you what you need to know 😉!
+Don't worry if you're not familiar with all these tools; we'll teach you what you need to know 😉!
 
 ## Reproducible science
 
