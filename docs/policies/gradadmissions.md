@@ -1,7 +1,8 @@
 # Graduate Admissions
 
 If you are unsure whether you would be a good fit, you can send me an email of interest.
-Please see below for instructions.
+Please see below for instructions (if you send me a generic email I probably won't respond!)
+
 You may also benefit from the wisdom of the internet.
 For generic advice, check out:
 
