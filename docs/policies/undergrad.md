@@ -44,7 +44,6 @@ We have a limited number of hours available each semester, so these positions ar
 Open positions may be posted on [our lab website](https://dossgollin-lab.github.io/join-the-lab){:target="_blank"}, but if you have concrete ideas you can propose a project (see below).
 
 We can apply for an undergraduate research fellowship to fund your time in lab.
-See the [Student Opportunity Center](https://ouri.rice.edu/student-opportunity-center){:target="_blank"} for information.
 Because these fellowships are intended to support your academic development, undergraduate fellows will be required to participate in lab meetings.
 This option is also available during the summer.
 
