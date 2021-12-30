@@ -26,7 +26,7 @@ If a member engages in harassing behavior, other group members and James Doss-Go
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact James Doss-Gollin immediately.
 James is available to help group members contact security or local law enforcement, navigate official University reporting channels, or otherwise assist those experiencing harassment to feel safe in the research environment.
-If James is the cause of the concern or you would prefer he not be involved, official concerns can be directed to the [Office for Interpersonal Misconduct Prevention and Support](https://safe.rice.edu/getting-help-friend-and-yourself){:target="\_blank"}, [Office of Diversity and Inclusion](https://diversity.rice.edu/){:target="\_blank"}, or [Title IX Office](https://policy830.rice.edu/make-report){:target="\_blank"}.
+If James is the cause of the concern or you would prefer he not be involved, official concerns can be directed to the [Office for Interpersonal Misconduct Prevention and Support](https://safe.rice.edu/getting-help-friend-and-yourself){:target="\_blank"}, [Office of Diversity and Inclusion](https://diversity.rice.edu/){:target="\_blank"}, or [Title IX Office](https://titleix.rice.edu/){:target="\_blank"}.
 
 We expect research group members to follow these rules in all professional settings including the office, conferences, workshop venues, and group-related social events.
 We additionally expect members to treat each other professionally with respect to their work and workspaces, with constructive criticism, without dismissive behavior, and without disruption of shared working spaces.
