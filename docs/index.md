@@ -50,6 +50,7 @@ Through mission-oriented basic research guided by community engagement, we devel
     * the [Ocean Transport Group](https://ocean-transport.github.io/){:target="_blank"} at the Lamont-Doherty Earth Observatory
     * the [Aly lab](https://github.com/alylab/labmanual){:target="_blank"} at Columbia University -- see their [Nature Paper](https://doi.org/10/gd4vfk){:target="_blank"} on the importance of lab manuals
     * the [Srikrishnan Lab](https://viveks.bee.cornell.edu/lab-manual/){:target="_blank"} at Cornell University
+    * the [Keller Lab Group](https://keller-lab.github.io/){:target="_blank"} at Dartmouth University
 
     Where specific sections borrow not only ideas but also words, specific credit is given.
     Thanks also to the following contributors for their comments and suggestions:
