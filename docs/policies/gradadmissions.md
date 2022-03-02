@@ -138,3 +138,39 @@ Look at their web pages and papers and look for research groups that appeal to y
 In general, programs in the US have a deadline in December or January for admission to the fall semester.
 Some programs have a deadline in the fall for admission to the spring semester.
 See [Rice graduate admission guidelines](https://graduate.rice.edu/admissions/how-to-apply) for our program's deadlines.
+
+### What are things you wish more students knew before joining your program?
+
+*I got some feedback from current students for this.*
+
+1. Balancing course requirements (roughly 6 courses -- see student handbook for details) and research can be a challenge, especially for first-year graduate students who generally have the heaviest courseloads.
+1. For anyone doing modeling or data-driven work, most of your day will be spent (i) reading, (ii) writing, or (iii) coding. You should strive to improve your effectiveness in all three areas and plan to spend much of your day at a computer (which also means being deliberate about getting out of your computer!)
+1. You will get more out of grad school (this applies to any program!) if you have a clear idea of what you want to learn and what you want to get out of grad school.
+
+### What is the worst quality of life pain point that your students go through?
+
+*I got some feedback from current students for this.*
+
+1. Trying to learn how to do research while also taking a heavy courseload can make for a tough first semester (this was also my experience).
+
+### How has the lab planned and handled for student's growth throughout their graduate program?
+
+*I got some feedback from current students for this.*
+We're still figuring this out and will continue to adapt as we learn more.
+Students learn best from each other, so we have regular reading groups, where we meet (often with friends from other groups) to discuss papers.
+We help each other prepare for conferences, give each other feedback on papers, etc.
+This only works in an environment where we trust each other (both giving and getting feedback require trust) so we need to hold ourselves and each other to a high standard of integrity (i.e., be trustworthy!)
+As a young / small group, it's also important to have interaction with people outside the group -- we have meetings and social events with other lab groups, and most students are working on collaborative projects that include people from beyond our group.
+
+### How are publication credits discussed in the lab?
+
+Please see [`authorship`](./authorship.md).
+Journals typically have clear expectations about what constitutes authorship and we follow those guidelines.
+The most important rule is to have clear conversations about authorship early on (this is the PI's responsibility but students are always welcome to ask about authorship!)
+
+### How has the lab dealt with academic and social misconduct situations (plagiarism, bullying, harassment, misogyny, racism, transphobia, etc)?
+
+So far we've been fortunate to have avoided significant academic and social misconduct.
+We obviously follow Rice University policies.
+We've also developed a [policy on harassment](../expectations/harassment.md) and other expectations that will guide us if (when) these come up.
+In general we set high expectations for ourselves and for one another because a collaborative and open environment, which benefits everyone, requires mutual trust and respect.
