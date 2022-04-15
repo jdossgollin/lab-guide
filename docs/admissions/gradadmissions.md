@@ -7,7 +7,7 @@ Please see below for instructions (if you send me a generic email I probably won
 
 When funding is available for M.S. and Ph.D students to do specific work, these positions will be advertised on the group’s ["Join"](https://dossgollin-lab.github.io/join-the-lab) page.
 When projects allow for a broader scope, or more general funding is available, that same page will note how many students the group is looking to take on.
-If you have external funding **or a specific research idea**, you should reach out (see below) even if there's not a position posted.
+If you have external funding or a specific research idea, you should reach out (see below) even if there's not a position posted.
 
 ## How to Apply
 
@@ -71,11 +71,11 @@ You may be invited to a brief video chat (see above) before proceeding to the gu
     1. If this step suggests a good fit and we can work out the logistics, we move to the last step (you joining the lab group)
     1. You join the lab group and we start the work!
 
-## Advice
+## Advice and criteria
 
 There are three main questions that your application needs to answer.
-Fundamentally, they're about making sure that if you join this group to do a PhD at Rice, you will be happy and successful.
-PhD students who are happy and successful are PhD students in a program that is a good fit for their skills and interests!
+Fundamentally, they're about making sure that if you join this group to do a Ph.D. at Rice, you will be happy and successful.
+Ph.D. students who are happy and successful are PhD students in a program that is a good fit for their skills and interests!
 
 1. Would doing this research advance *your* life/career goals?
 1. Do you have the required training and ability to carry out this research? Have you given clear thought to the skills you will need to acquire and do you have a plan for how you will obtain them?
@@ -104,11 +104,11 @@ PhD students aren't expected to hit the ground running -- some coursework and tr
 Strong applicants will have some exposure to the following skills, and will excel in at least one area.
 No one's perfect at everything, though!
 
-- *Writing and communication:* Science requires a great deal of reading, writing, and presenting. Clear communication is a critical skill, especially in the age of information overload. This doesn't mean that you need to be the next Amanda Gorman, and it doesn't mean that if English is your second language you can't thrive. However, you should use your personal statement (and share work you've finished) to demonstrate your writing abilities.
-- *Programming:* All the work we do involves computation and simulation. In our group we use mainly Python, R, and Julia, but experience in other languages will serve you well. If you've never programmed, consider taking a free online class to demystify coding and to make sure that you will be happy spending hours every day writing and editing code.
 - *Statistics, applied mathematics, and optimization:* We use quantitative tools to characterize uncertainty and inform decisions. If you have a solid background in probability or statistics, it will help you hit the ground running. Coursework or skills in statistics, probability, econometrics, optimization, applied mathematics, water resources management, and similar fields will strengthen your application.
+- *Programming:* All the work we do involves computation and simulation. In our group we use mainly Python, R, and Julia, but experience in other languages will serve you well. If you've never programmed, consider taking a free online class to demystify coding and to make sure that you will be happy spending hours every day writing and editing code.
 - *Physical sciences:* Understanding climate risk and how it might change in the future requires some basic understanding of physical processes. A background in earth science, environmental science, environmental engineering, physics, hydrology, or similar fields will help you examine present and future hydroclimate hazard.
 - *Critical thinking:* A Ph.D. is a license to do independent research, which means you should be able to formulate and examine research questions, not just turn the crank. You should be able to tell a story about why you posed a particular question, how your prior understanding of the area led you to formulate certain hypotheses, how you designed your experiment to test those hypotheses, and what the implications of the results are for your hypotheses in particular and the field in general. This skill is hard to demonstrate, but you can show your abilities in your personal statement and in any subsequent interviews.
+- *Writing and communication:* Science requires a great deal of reading, writing, and presenting. Clear communication is a critical skill, especially in the age of information overload. This doesn't mean that you need to be the next Amanda Gorman, and it doesn't mean that if English is your second language you can't thrive. However, you should use your personal statement (and share work you've finished) to demonstrate your writing abilities.
 
 If you are interested in our work but aren't sure whether you have a strong background, please reach out!
 (In particular, studies show that individuals from minoritized groups tend to underestimate their own abilities. Please don't sell yourself short!)
@@ -164,7 +164,7 @@ As a young / small group, it's also important to have interaction with people ou
 
 ### How are publication credits discussed in the lab?
 
-Please see [`authorship`](./authorship.md).
+Please see [`authorship`](../policies/authorship.md).
 Journals typically have clear expectations about what constitutes authorship and we follow those guidelines.
 The most important rule is to have clear conversations about authorship early on (this is the PI's responsibility but students are always welcome to ask about authorship!)
 
