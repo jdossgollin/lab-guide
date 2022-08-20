@@ -10,7 +10,7 @@
     * Notion for project management, note-taking, and internal resources
     * Zotero for sharing scientific papers and references
 
-1. Add yourself to the [group website](https://github.com/dossgollin-lab/dossgollin-lab.github.io){:target="_blank"} via a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests){:target="_blank} (Confused? You're not born knowing 😉. Post on the `doss-gollin-lab-github-io` Slack channel for help!):
+1. Add yourself to the [group website](https://github.com/dossgollin-lab/dossgollin-lab.github.io){:target="_blank"} via a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests){:target="_blank} (Confused? You're not born knowing 😉. Post on the `doss-gollin-lab-github-io` Slack channel for help!):
 
     * add a **square** photo to `assets/images/people/`
     * add an entry to `_data/people.yaml` with a bio and other information
