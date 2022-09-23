@@ -7,25 +7,25 @@ Please see below for instructions (if you send me a generic email I probably won
 
 When funding is available for M.S. and Ph.D students to do specific work, these positions will be advertised on the group’s ["Join"](https://dossgollin-lab.github.io/join-the-lab) page.
 When projects allow for a broader scope, or more general funding is available, that same page will note how many students the group is looking to take on.
-If you have external funding or a specific research idea, you should reach out (see below) even if there's not a position posted.
+*If you have external funding or a specific research idea, you should reach out (see below) even if there's not a position posted.*
 
 ## How to Apply
 
 In order to join the group as a graduate student, you must apply to the program of your choice in the [Department of Civil and Environmental Engineering](https://cee.rice.edu/academics/graduate-programs/phd-program).
 See [Rice graduate admission guidelines](https://graduate.rice.edu/admissions/how-to-apply).
-It is *your responsibility* to keep track of all required deadlines, materials, etc.
+It is **your responsibility** to keep track of all required deadlines, materials, etc!
 
 ### Before formally applying
 
 Applying to graduate school is a time-consuming and money-consuming process.
-You are strongly encouraged (though not required) to reach out before formally applying.
+You are strongly encouraged (though not required) to reach out before formally applying as this can help to give both of us a sense of whether it's worth the investment of your time to apply.
 
 1. Read relevant websites and [example papers](https://dossgollin-lab.github.io/publications/) to judge whether this is a good fit. Note the kind of quantitative  research we do, the approaches we use, and the problems we analyze. Feel free to explore websites of coauthors and close collaborators.
-1. Review the core values we adopt in the lab group and decide whether this is a good fit.
-1. If you are interested and see a good fit, send an email to James ([jdossgollin@rice.edu](mailto:jdossgollin@rice.edu)) and
+1. Review the core values we adopt in the lab group (described int his document) and decide whether this is a good fit.
+1. If you are still interested and see the potential for a good fit, send an email to James ([jdossgollin@rice.edu](mailto:jdossgollin@rice.edu)).
     1. DO: read the lab guide and lab website before you send an email.
-    1. DO NOT: Ask a question that is answered in the FAQs below.
     1. DO: attach your current CV (as a .`pdf` file), a statement of your research interests or draft of your personal statement, and any relevant prior work you'd like me to look at.
+    1. DO NOT: Ask a question that is answered in the FAQs below.
     1. DO: explain why you are reaching out to me specifically.
     1. DO: ask specific questions
     1. We'll iterate via email. If this is of joint interest, we move to the next step (video-chats)
@@ -56,62 +56,66 @@ If your application suggests a good potential fit, we'll move on to the next ste
 If you have not yet been in touch, be sure to put James as the faculty with whom you want to work.
 You may be invited to a brief video chat (see above) before proceeding to the guided paper evaluation.
 
-1. Guided Paper Evaluation
-    1. James will send you an email asking you to provide a written evaluation of a paper, which he will provide in that email. This paper will be selected based on your discussed interests. The goal of this response is to get a sense of your reading, writing, and critical thinking skills.
-    1. Limit the evaluation to one page (12 point font) and address these questions:
-        1. What are the main research questions and hypotheses of the paper?
-        1. What are the key results?
-        1. What are (potential) caveats?
-        1. How would you improve on the paper?
-    1. Please return your paper evaluation within seven days (if you think this will be a constraint, communicate this early)
-1. If your paper evaluation suggests you have the required reading, writing, and critical thinking skills, we’ll move to the next step (you submitting a written application)
-1. You meet the lab group and present your project idea
-    1. Please keep this presentation short (12 min max)
-    1. Feel free to reach out to other lab-group members and ask questions
-    1. If this step suggests a good fit and we can work out the logistics, we move to the last step (you joining the lab group)
+1. **Formal Interview:** there are two steps to the formal interview
+    1. Written paper evaluation
+        1. James will send you an email asking you to provide a written evaluation of a paper, which he will provide in that email. This paper will be selected based on your discussed interests. The goal of this response is to get a sense of your reading, writing, and critical thinking skills.
+        1. Limit the evaluation to one page (12 point font) and address these questions:
+            1. What are the main research questions and hypotheses of the paper?
+            1. What are the key results?
+            1. What are (potential) caveats?
+            1. How would you improve on the paper?
+        1. Please return your paper evaluation within seven days (if you think this will be a constraint, communicate this ahead of time and we can give additional time)
+    1. Video interview
+        1. The purpose of this interview is to get a sense of your communication skills. If you have done research before, then you should prepare a 12 minute presentation about your work. If not, you do not need to prepare anything. James will ask you questions about your research, the paper you evaluated, and more general questions.
+1. **Meet the group:** If your interview suggests you would be a good fit for our group, we will move to the next step: meet the lab group.
+    1. This visit may be in-person or remotely, depending on travel logistics
+    1. Please prepare a short presentation for the group about a research idea. This should cover *research you want to do*, not research you have already done.
+    1. Feel free to reach out to other lab-group members or collaborators to ask questions
+1. **Join the group:** If this step suggests a good fit and we can work out the logistics, we move to the last step (you joining the lab group)
     1. You join the lab group and we start the work!
 
-## Advice and criteria
+## How we evaluate your application
 
-There are three main questions that your application needs to answer.
+There are two main questions that your application needs to answer.
 Fundamentally, they're about making sure that if you join this group to do a Ph.D. at Rice, you will be happy and successful.
 Ph.D. students who are happy and successful are PhD students in a program that is a good fit for their skills and interests!
 
-1. Would doing this research advance *your* life/career goals?
-1. Do you have the required training and ability to carry out this research? Have you given clear thought to the skills you will need to acquire and do you have a plan for how you will obtain them?
-1. Is *James* the right supervisor for this research?
-
-Although your application is assessed holistically, you should focus on crafting the personal statement to make sure that it clearly and obviously answers all three of these questions.
-
-For generic advice, check out:
-
-- Matt Might's [How to Get Into Grad School](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) post (note that this is aimed at computer science, but is overall similar)
-- [this MIT guide](https://mitcommlab.mit.edu/cheme/commkit/graduate-school-personal-statement/) to the personal statement
-- [Rice University's guidance](https://graduate.rice.edu/news/grad-school-101-writing-personal-statement) to the personal statement
-
 ### Advancing your goals
 
+The first question your application needs to address is whether doing a Ph.D. with us advance *your* life/career goals?
 A PhD can be a long and tiring process.
 Happy and successful PhD students are those who can draw energy and support from the big picture.
 In your application, I'm looking to see:
+    1. Have you thought clearly about your long-term goals? This doesn't have to be specific ("I want to work at a particular national lab") and you can express uncertainty ("I am interested in developing a startup and in academia, and this PhD will prepare me for both while helping me decide"). You should, of course, be interested in a career that involves research! I'm more interested in seeing evidence of a thoughtful process of discernment than in what your specific goals are. There isn't a "right" answer.
+    1. Will the research projects I'm working on help you advance those goals? If your goal is to be an astronaut, this probably isn't a good fit.
+    1. Out of all the many potential advisors, why am I the right supervisor for you to carry out this research?
 
-- Have you thought clearly about your long-term goals? This doesn't have to be specific ("I want to work at a particular national lab") and you can express uncertainty ("I am interested in developing a startup and in academia, and this PhD will prepare me for both while helping me decide"). You should, of course, be interested in a career that involves research! I'm more interested in seeing evidence of a thoughtful process of discernment than in what your specific goals are. There isn't a "right" answer.
-- Will the research projects I'm working on help you advance those goals? If your goal is to be an astronaut, this probably isn't a good fit.
+### Background
 
-### Background and training
-
+Do you have the required training and ability to carry out this research?
+Have you given clear thought to the skills you will need to acquire and do you have a plan for how you will obtain them?
 PhD students aren't expected to hit the ground running -- some coursework and training is necessary -- but having a strong background will help you transition quickly to interesting research projects and minimize frustrations.
-Strong applicants will have some exposure to the following skills, and will excel in at least one area.
-No one's perfect at everything, though!
+Strong applicants will have some exposure to the following skills, and will excel in at least one area (no one knows everything, though).
 
-- *Statistics, applied mathematics, and optimization:* We use quantitative tools to characterize uncertainty and inform decisions. If you have a solid background in probability or statistics, it will help you hit the ground running. Coursework or skills in statistics, probability, econometrics, optimization, applied mathematics, water resources management, and similar fields will strengthen your application.
-- *Programming:* All the work we do involves computation and simulation. In our group we use mainly Python, R, and Julia, but experience in other languages will serve you well. If you've never programmed, consider taking a free online class to demystify coding and to make sure that you will be happy spending hours every day writing and editing code.
-- *Physical sciences:* Understanding climate risk and how it might change in the future requires some basic understanding of physical processes. A background in earth science, environmental science, environmental engineering, physics, hydrology, or similar fields will help you examine present and future hydroclimate hazard.
-- *Critical thinking:* A Ph.D. is a license to do independent research, which means you should be able to formulate and examine research questions, not just turn the crank. You should be able to tell a story about why you posed a particular question, how your prior understanding of the area led you to formulate certain hypotheses, how you designed your experiment to test those hypotheses, and what the implications of the results are for your hypotheses in particular and the field in general. This skill is hard to demonstrate, but you can show your abilities in your personal statement and in any subsequent interviews.
-- *Writing and communication:* Science requires a great deal of reading, writing, and presenting. Clear communication is a critical skill, especially in the age of information overload. This doesn't mean that you need to be the next Amanda Gorman, and it doesn't mean that if English is your second language you can't thrive. However, you should use your personal statement (and share work you've finished) to demonstrate your writing abilities.
+In alphabetical order:
 
-If you are interested in our work but aren't sure whether you have a strong background, please reach out!
-(In particular, studies show that individuals from minoritized groups tend to underestimate their own abilities. Please don't sell yourself short!)
+1. *Bigger picture:* Climate change and critical infrastructure affect real people. However, we can't model everything -- we need to focus on a subset of the problem. At the same time, analytical tools have at times been used to oppress and silence marginalized groups. Are you able to think about how your research fits into broader research and policy questions, and what implications might be for real people in the real world?
+1. *Critical thinking:* A Ph.D. is a license to do independent research, which means you should be able to formulate and examine research questions, not just turn the crank. You should be able to tell a story about why you posed a particular question, how your prior understanding of the area led you to formulate certain hypotheses, how you designed your experiment to test those hypotheses, and what the implications of the results are for your hypotheses in particular and the field in general. This skill is hard to demonstrate, but you can show your abilities in your personal statement and in any subsequent interviews.
+1. *Physical sciences:* Understanding climate risk and how it might change in the future requires some basic understanding of physical processes. A background in earth science, environmental science, environmental engineering, physics, hydrology, or similar fields will help you examine present and future hydroclimate hazard.
+1. *Programming:* All the work we do involves computation and simulation. In our group we use mainly Python, R, and Julia, but experience in other languages will serve you well. If you've never programmed, consider taking a free online class to demystify coding and to make sure that you will be happy spending hours every day writing and editing code.
+1. *Statistics, applied mathematics, and optimization:* We use quantitative tools to characterize uncertainty and inform decisions. If you have a solid background in probability or statistics, it will help you hit the ground running. Coursework or skills in statistics, probability, econometrics, optimization, applied mathematics, water resources management, and similar fields will strengthen your application.
+1. *Writing and communication:* Science requires a great deal of reading, writing, and presenting. Clear communication is a critical skill, especially in the age of information overload. This doesn't mean that you need to be the next Amanda Gorman, and it doesn't mean that if English is your second language you can't thrive. However, you should use your personal statement (and share work you've finished) to demonstrate your writing abilities.
+
+If you are interested in our work but aren't sure whether you have a strong background, please reach out! (In particular, studies show that *individuals from minoritized groups tend to underestimate their own abilities.* Please don't sell yourself short!)
+
+### Other advice
+
+Although your application is assessed holistically, you should focus on crafting the personal statement to make sure that it clearly and obviously answers all three of these questions.
+For some additional generic advice, check out:
+
+1. Matt Might's [How to Get Into Grad School](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) post (note that this is aimed at computer science, but is overall similar)
+1. [this MIT guide](https://mitcommlab.mit.edu/cheme/commkit/graduate-school-personal-statement/) to the personal statement
+1. [Rice University's guidance](https://graduate.rice.edu/news/grad-school-101-writing-personal-statement) to the personal statement
 
 ## FAQ
 
