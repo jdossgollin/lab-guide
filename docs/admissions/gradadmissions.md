@@ -64,6 +64,10 @@ You may be invited to a brief video chat (see above) before proceeding to the gu
             1. What are the key results?
             1. What are (potential) caveats?
             1. How would you improve on the paper?
+        1. This evaluation is governed by the [Rice Honor Policy](https://honor.rice.edu/frequently-asked-questions/). Please briefly review this document and include the pledge("On my honor, I have neither given nor received any unauthorized aid on this assignment").
+            1. You should do this work on your own, without communicating with advisors, colleagues, etc.
+            1. You may use information on the web -- not only bibliographic search tools but also Wikipedia, PubPeer, Hypothesis, etc. However, you must attribute your sources.
+            1. Please use a formal bibliogrpahic style such as APA, AGU, or similar for citing scholarly works. You may reference web sites and other materials using endnotes. References do not count toward the 1 page limit.
         1. Please return your paper evaluation within seven days (if you think this will be a constraint, communicate this ahead of time and we can give additional time)
     1. Video interview
         1. The purpose of this interview is to get a sense of your communication skills. If you have done research before, then you should prepare a 12 minute presentation about your work. If not, you do not need to prepare anything. James will ask you questions about your research, the paper you evaluated, and more general questions.
