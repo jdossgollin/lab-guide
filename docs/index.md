@@ -1,8 +1,9 @@
 # Welcome
 
-This document codifies lab practices and expectations for new and existing group members.
+Welcome to the lab guide for the Doss-Gollin lab in the Department of Civil and Environmental Engineering at Rice University.
+If you're looking for our group's homepage, please find it [here](https://dossgollin-lab.github.io).
 
-This lab guide is divided into three main sections:
+This document codifies lab practices and expectations for new and existing group members and is divided into three main sections:
 
 1. Expectations for conduct
 1. Specific policies and resources
