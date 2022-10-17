@@ -35,4 +35,7 @@ Understand that I can only write about your
 
 ## Pro Tips
 
-You are encouraged to read advice like [How to get a great letter of recommendation](http://matt.might.net/articles/how-to-recommendation-letter/){:target="_blank"} by Matt Might.
+You are encouraged to read advice like
+
+* [How to get a great letter of recommendation](http://matt.might.net/articles/how-to-recommendation-letter/){:target="_blank"} by Matt Might.
+* [this Twitter thread](https://twitter.com/astroarianna/status/1582039372282486786){:target="_blank"} by Arianna Long
