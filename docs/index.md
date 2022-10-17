@@ -5,9 +5,9 @@ If you're looking for our group's homepage, please find it [here](https://dossgo
 
 This document codifies lab practices and expectations for new and existing group members and is divided into three main sections:
 
-1. Expectations for conduct
-1. Specific policies and resources
-1. Information for new and prospective members
+1. **Expectations and conduct** clarifies some of the expectations we have for ourselves and for one another
+1. **Team resources** provides some how-to information. Much of this has moved to our Notion database, but information that's relevant to the public is posted here.
+1. **Joining the Lab** guides prospective group members through the process of joining.
 
 !!! info "Contribute"
     This is intended to be a **living document** and remains a work in progress.
