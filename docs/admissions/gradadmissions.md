@@ -20,19 +20,18 @@ It is **your responsibility** to keep track of all required deadlines, materials
 Applying to graduate school is a time-consuming and money-consuming process.
 You are strongly encouraged (though not required) to reach out before formally applying as this can help to give both of us a sense of whether it's worth the investment of your time to apply.
 
+**To reach out, please read the instructions below and then fill out [this form](https://forms.gle/MfcpHnA6E3R2NuSn6).**
+
 1. Read relevant websites and [example papers](https://dossgollin-lab.github.io/publications/) to judge whether this is a good fit. Note the kind of quantitative  research we do, the approaches we use, and the problems we analyze. Feel free to explore websites of coauthors and close collaborators.
 1. Review the core values we adopt in the lab group (described int his document) and decide whether this is a good fit.
-1. If you are still interested and see the potential for a good fit, send an email to James ([jdossgollin@rice.edu](mailto:jdossgollin@rice.edu)).
-    1. DO: read the lab guide and lab website before you send an email.
-    1. DO: attach your current CV (as a .`pdf` file), a statement of your research interests or draft of your personal statement, and any relevant prior work you'd like me to look at.
-    1. DO NOT: Ask a question that is answered in the FAQs below.
-    1. DO: explain why you are reaching out to me specifically.
-    1. DO: ask specific questions
-    1. We'll iterate via email. If this is of joint interest, we move to the next step (video-chats)
+1. If you are still interested and see the potential for a good fit, [**fill out the form for prospective applicants**](https://forms.gle/MfcpHnA6E3R2NuSn6).
+    1. Please do not send an email as I cannot keep track of all emails from prospective students.
+    1. Please fill out all requested questions thoughtfully. I suggest to draft text inputs in another application so that if your internet connection is disrupted nothing is lost.
+    1. I will follow up via email. If this is of joint interest, we move to the next step (video-chats)
 1. Video Chats
     1. These are intended to evaluate your verbal communications skills and how well you can articulate your interests. If a video chat does not work for you, we can find alternatives.
     1. There is no need for fancy backgrounds, formal presentations, or for dressing up.
-    1. If this is of joint interest, you should apply formally to the department (see above)
+    1. If this is of joint interest, you should apply formally to the department (see next)
 
 ### The formal application
 
@@ -108,7 +107,7 @@ In alphabetical order:
 1. *Physical sciences:* Understanding climate risk and how it might change in the future requires some basic understanding of physical processes. A background in earth science, environmental science, environmental engineering, physics, hydrology, or similar fields will help you examine present and future hydroclimate hazard.
 1. *Programming:* All the work we do involves computation and simulation. In our group we use mainly Python, R, and Julia, but experience in other languages will serve you well. If you've never programmed, consider taking a free online class to demystify coding and to make sure that you will be happy spending hours every day writing and editing code.
 1. *Statistics, applied mathematics, and optimization:* We use quantitative tools to characterize uncertainty and inform decisions. If you have a solid background in probability or statistics, it will help you hit the ground running. Coursework or skills in statistics, probability, econometrics, optimization, applied mathematics, water resources management, and similar fields will strengthen your application.
-1. *Writing and communication:* Science requires a great deal of reading, writing, and presenting. Clear communication is a critical skill, especially in the age of information overload. This doesn't mean that you need to be the next Amanda Gorman, and it doesn't mean that if English is your second language you can't thrive. However, you should use your personal statement (and share work you've finished) to demonstrate your writing abilities.
+1. *Writing and communication:* Science requires a great deal of reading, writing, and presenting. Clear communication is a critical skill, especially in the age of information overload. This doesn't mean that if English is your second language you can't thrive. However, you should use your personal statement (and share work you've finished) to demonstrate your writing abilities.
 
 If you are interested in our work but aren't sure whether you have a strong background, please reach out! (In particular, studies show that *individuals from minoritized groups tend to underestimate their own abilities.* Please don't sell yourself short!)
 
