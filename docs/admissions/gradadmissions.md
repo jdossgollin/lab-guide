@@ -119,6 +119,7 @@ For some additional generic advice, check out:
 1. Matt Might's [How to Get Into Grad School](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) post (note that this is aimed at computer science, but is overall similar)
 1. [this MIT guide](https://mitcommlab.mit.edu/cheme/commkit/graduate-school-personal-statement/) to the personal statement
 1. [Rice University's guidance](https://graduate.rice.edu/news/grad-school-101-writing-personal-statement) to the personal statement
+1. Chris Blattman's [Twitter Thread](https://threadreaderapp.com/thread/1593606505340801024.html) and [blog post](https://chrisblattman.com/blog/2022/01/11/phd-applicants-writing-your-statement-of-purpose/) on writing a strong personal statement (tailored to economics and social sciences, but  the advice is highly applicable!)
 
 ## FAQ
 
