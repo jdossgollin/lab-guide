@@ -29,7 +29,7 @@ I get too many emails from prospective students to keep track of all of them eff
 1. If you are still interested and see the potential for a good fit, [**fill out the form for prospective applicants**](https://forms.gle/MfcpHnA6E3R2NuSn6).
     1. This form asks for a statement of purpose. See "how to write a good application" for some helpful tips on how to write a good one! Statements that do not follow these tips are unlikely to stand out.
     1. Please fill out all requested questions thoughtfully. I suggest to draft text inputs in another application so that if your internet connection is disrupted nothing is lost.
-    1. I will follow up via email. If this is of joint interest, we move to the next step (video-chats)
+    1. I will follow up via email. If this is of joint interest, we move to the next step (video-chats)`
 1. Video Chats
     1. These are intended to evaluate your verbal communications skills and how well you can articulate your interests. If a video chat does not work for you, we can find alternatives.
     1. There is no need for fancy backgrounds, formal presentations, or for dressing up.
@@ -90,6 +90,13 @@ For some additional generic advice, check out:
 1. Chris Blattman's [Twitter Thread](https://threadreaderapp.com/thread/1593606505340801024.html) and [blog post](https://chrisblattman.com/blog/2022/01/11/phd-applicants-writing-your-statement-of-purpose/) on writing a strong statement of purpose (tailored to economics and social sciences, but  the advice is highly applicable!)
 
 ## FAQ
+
+**Are positions fully funded?**
+
+In short: yes.
+All Ph.D. positions within the group will be fully funded.
+That includes tuition support, a stipend, and other benefits -- see Rice's [2022 Announcement](https://graduate.rice.edu/news/current-news/rice-raises-its-minimum-phd-stipend-32000-increases-adams-moseley-loan).
+You will get more details in your formal offer letter if accepted.
 
 **Should I write a research proposal?**
 
