@@ -54,28 +54,36 @@ A good statement of purpose should clearly articulate:
 If you have already been in touch, James will know to look for your application.
 If your application suggests a good potential fit, we'll move on to the next step (guided paper evaluation).
 
-If you have not yet been in touch, be sure to put James as the faculty with whom you want to work.
-You may be invited to a brief video chat (see above) before proceeding to the guided paper evaluation.
-
 1. **Formal Interview:** there are two steps to the formal interview
-    1. Written paper evaluation
-        1. James will send you an email asking you to provide a written evaluation of a paper, which he will provide in that email. This paper will be selected based on your discussed interests. The goal of this response is to get a sense of your reading, writing, and critical thinking skills.
-        1. Limit the evaluation to one page (12 point font) and address these questions:
-            1. What are the main research questions and hypotheses of the paper?
-            1. What are the key results?
-            1. What are (potential) caveats?
-            1. How would you improve on the paper?
+    1. Guided paper evaluation
+        1. James will send you an email asking you to provide a written evaluation of two papers, which he will provide in that email. Papers will be selected based on your discussed interests. The goal of this response is to get a sense of your reading, writing, and critical thinking skills.
+        1. Limit the evaluation to three page (12 point font) and address these questions:
+            1. For each paper, spend roughly one page answering the following:
+                1. What are the main research questions and hypotheses of the paper?
+                1. What are the key results?
+                1. What are (potential) caveats?
+                1. How would you improve on the paper?
+            1. Then, spend roughly one page summarizing and synthesizing. You may address questions such as:
+                1. What are the relative advantages and disadvantages of the methods used in the two papers?
+                1. What research gaps and opportunities do you identify in this space?
+                1. If you were going to conduct a Ph.D. project in this space (don't worry, this is hypothetical -- you don't have to commit to a project yet), what would you want to work on?
         1. This evaluation is governed by the [Rice Honor Policy](https://honor.rice.edu/frequently-asked-questions/). Please briefly review this document and include the pledge("On my honor, I have neither given nor received any unauthorized aid on this assignment").
             1. You should do this work on your own, without communicating with advisors, colleagues, etc.
             1. You may use information on the web -- not only bibliographic search tools but also Wikipedia, PubPeer, Hypothesis, etc. However, you must attribute your sources.
-            1. Please use a formal bibliogrpahic style such as APA, AGU, or similar for citing scholarly works. You may reference web sites and other materials using endnotes. References do not count toward the 1 page limit.
+            1. Please use a formal bibliographic style such as APA, AGU, or similar for citing scholarly works. You may reference web sites and other materials using endnotes. References do not count toward the page limit.
         1. Please return your paper evaluation within seven days (if you think this will be a constraint, communicate this ahead of time and we can give additional time)
+        1. If your paper evaluation suggests you have the required reading, writing, and critical thinking skills, we’ll move to the next step (video interview).
     1. Video interview
-        1. The purpose of this interview is to get a sense of your communication skills. If you have done research before, then you should prepare a 12 minute presentation about your work. If not, you do not need to prepare anything. James will ask you questions about your research, the paper you evaluated, and more general questions.
+        1. The purpose of this interview is to get a sense of your communication skills and to follow up on your application.
+        1. Please prepare a 12-15 minute presentation summarizing the guided paper evaluation that you submitted.
+        1. James will ask you follow up questions about the guided paper evaluation.
+        1. James will ask you follow up questions about a research project you have worked on.
+        1. James will ask you some general questions about your academic and professional goals.
+        1. You will have time to ask James any questions that you have.
 1. **Meet the group:** If your interview suggests you would be a good fit for our group, we will move to the next step: meet the lab group.
     1. This visit may be in-person or remotely, depending on travel logistics
     1. Please prepare a short presentation for the group about a research idea. This should cover *research you want to do*, not research you have already done.
-    1. Feel free to reach out to other lab-group members or collaborators to ask questions
+    1. Feel free to reach out to other lab-group members or collaborators to ask questions!
 1. **Join the group:** If this step suggests a good fit and we can work out the logistics, we move to the last step (you joining the lab group)
     1. You join the lab group and we start the work!
 
