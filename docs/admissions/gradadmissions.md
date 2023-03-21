@@ -17,7 +17,7 @@ It is **your responsibility** to keep track of all required deadlines, materials
 
 ### Before formally applying
 
-Applying to graduate school is a time-consuming and money-consuming process.
+Applying to graduate school is a time- and money-consuming process.
 You are strongly encouraged (though not required) to reach out before formally applying as this can help to give both of us a sense of whether it's worth the investment of your time to apply.
 
 **To reach out, please read the instructions below and then fill out [this form](https://forms.gle/MfcpHnA6E3R2NuSn6).**
@@ -37,17 +37,19 @@ I get too many emails from prospective students to keep track of all of them eff
 
 ### The formal application
 
-Whether you have been in touch or not, you must apply to the Department of Civil and Environmental Engineering at Rice (see above).
+Whether you have been in touch or not, **you must apply to the Department of Civil and Environmental Engineering at Rice** (see above).
 This will give the department an opportunity to view your transcripts, letters of recommendation, and statement of purpose.
 
 Of these, the step you most control is the statement of purpose.
 A good statement of purpose should clearly articulate:
 
 1. How would joining this lab group advance your career and life goals?
-1. What kind of project would you like to do?
-1. How does your current skill-set map to the needs for the project?
-1. Is James the right supervisor for you?
+1. What kind of research would you like to carry out in your Ph.D.?
+1. How does your current skill-set map to the needs for the project? What will you need to learn?
+1. Why is James the right supervisor for you to carry out this research?
 1. What synergies do you see with the group?
+
+See the resources below for more information on how to write a good statement of purpose.
 
 ### After formally applying
 
@@ -56,17 +58,12 @@ If your application suggests a good potential fit, we'll move on to the next ste
 
 1. **Formal Interview:** there are two steps to the formal interview
     1. Guided paper evaluation
-        1. James will send you an email asking you to provide a written evaluation of two papers, which he will provide in that email. Papers will be selected based on your discussed interests. The goal of this response is to get a sense of your reading, writing, and critical thinking skills.
+        1. James will send you an email asking you to provide a written evaluation of a research paper, which will be selected based on your discussed interests. The goal of this response is to get a sense of your reading, writing, and critical thinking skills.
         1. Limit the evaluation to three page (12 point font) and address these questions:
-            1. For each paper, spend roughly one page answering the following:
-                1. What are the main research questions and hypotheses of the paper?
-                1. What are the key results?
-                1. What are (potential) caveats?
-                1. How would you improve on the paper?
-            1. Then, spend roughly one page summarizing and synthesizing. You may address questions such as:
-                1. What are the relative advantages and disadvantages of the methods used in the two papers?
-                1. What research gaps and opportunities do you identify in this space?
-                1. If you were going to conduct a Ph.D. project in this space (don't worry, this is hypothetical -- you don't have to commit to a project yet), what would you want to work on?
+            1. What are the main research questions and hypotheses of the paper?
+            1. What are the key results?
+            1. What are (potential) caveats?
+            1. How would you improve on the paper?
         1. This evaluation is governed by the [Rice Honor Policy](https://honor.rice.edu/frequently-asked-questions/). Please briefly review this document and include the pledge("On my honor, I have neither given nor received any unauthorized aid on this assignment").
             1. You should do this work on your own, without communicating with advisors, colleagues, etc.
             1. You may use information on the web -- not only bibliographic search tools but also Wikipedia, PubPeer, Hypothesis, etc. However, you must attribute your sources.
