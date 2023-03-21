@@ -17,4 +17,3 @@
     * the README file should help you.
 
 1. If there are things we should update in this document, discuss them, post on the `lab-guide` Slack channel, or make the changes and submit a pull request directly.
-1. Go celebrate!
