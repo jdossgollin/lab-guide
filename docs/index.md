@@ -42,6 +42,7 @@ Through mission-oriented basic research guided by community engagement, we devel
     When we make mistakes, we recognize them and do our best to fix them.
 
 !!! info "Credit"
+
     The organization and framing of this document borrows heavily from lab guides written by
 
     * [Lab Carpentry](https://lab-carpentry.readthedocs.io/){:target="_blank"}
