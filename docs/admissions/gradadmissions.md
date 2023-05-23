@@ -150,11 +150,10 @@ Sketch out some research ideas that interest you.
 Then, conduct a literature review and find out who is working in this space.
 Look at their web pages and papers and look for research groups that appeal to you.
 
-**What are normally the deadlines of the applications?**
+**How often do students usually travel for conferences?**
 
-In general, programs in the US have a deadline in December or January for admission to the fall semester.
-Some programs have a deadline in the fall for admission to the spring semester.
-See [Rice graduate admission guidelines](https://graduate.rice.edu/admissions/how-to-apply) for our program's deadlines.
+After the first year (primarily classes) I aim to fund students to go to the American Geophysical Union Fall Meeting (1 week in December) or the American Society of Civil Engineers Environment / Water Resources Institute annual meeting (1 week in May).
+There are also lots of smaller and more targeted workshops that are often great experiences -- they often have some student travel grants and with planning we can often fund student travel.
 
 **What are things you wish more students knew before joining your program?**
 
