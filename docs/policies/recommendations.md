@@ -38,4 +38,5 @@ Understand that I can only write about your
 You are encouraged to read advice like
 
 * [How to get a great letter of recommendation](http://matt.might.net/articles/how-to-recommendation-letter/){:target="_blank"} by Matt Might.
-* [this Twitter thread](https://twitter.com/astroarianna/status/1582039372282486786){:target="_blank"} by Arianna Long
+* this Twitter thread:
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s application season. In just a couple years I went from a near total rejection rate to a 100% success rate for everything I&#39;ve applied for. <br><br>In addition to luck + timing, one of the biggest changes I made came from letters of recommendation. Let me show you how. 🧵</p>&mdash; Dr. Arianna Long (@astroarianna) <a href="https://twitter.com/astroarianna/status/1582039372282486786?ref_src=twsrc%5Etfw">October 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
