@@ -1,4 +1,7 @@
-# Welcome
+---
+title: Welcome
+toc: right
+---
 
 Welcome to the lab guide for the Doss-Gollin lab in the Department of Civil and Environmental Engineering at Rice University.
 If you're looking for our group's homepage, please find it [here](https://dossgollin-lab.github.io).
