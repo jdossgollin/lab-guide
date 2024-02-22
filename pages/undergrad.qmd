@@ -1,8 +1,9 @@
-# Undergraduate Research
+---
+title: "Undergraduate Research"
+---
 
 !!! info "Credit"
-    Specific language on this page comes from the [MemoLab](https://github.com/memobc/memolab-manual){:target="_blank"} at Boston College.
-
+    Specific language on this page comes from the [MemoLab](https://github.com/memobc/memolab-manual) at Boston College.
 
 ## Openings and Applying
 
@@ -12,7 +13,7 @@ There are three main ways to do research as an undergraduate:
 1. As a senior thesis
 1. For pay
 
-Please see the lab website's ["Join Us" page](https://dossgollin-lab.github.io/join-the-lab){:target="_blank"} for advertised positions, although you're always welcome to reach out if you have a specific idea (see below).
+Please see the lab website's ["Join Us" page](https://dossgollin-lab.github.io/join-the-lab) for advertised positions, although you're always welcome to reach out if you have a specific idea (see below).
 Specific positions for pay may be also advertised as announcements on the [lab website](https://dossgollin-lab.github.io/).
 
 ### Research for Credit
@@ -41,7 +42,7 @@ However, this is not a strict requirement (especially in 2021 since I'm new here
 If you want to work in lab and earn money, there are two different options.
 The lab can pay you as a research assistant, typically 5-10 hours per week at $12 per hour or as discussed.
 We have a limited number of hours available each semester, so these positions are competitive.
-Open positions may be posted on [our lab website](https://dossgollin-lab.github.io/join-the-lab){:target="_blank"}, but if you have concrete ideas you can propose a project (see below).
+Open positions may be posted on [our lab website](https://dossgollin-lab.github.io/join-the-lab), but if you have concrete ideas you can propose a project (see below).
 
 We can apply for an undergraduate research fellowship to fund your time in lab.
 Because these fellowships are intended to support your academic development, undergraduate fellows will be required to participate in lab meetings.

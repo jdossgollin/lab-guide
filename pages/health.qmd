@@ -1,7 +1,10 @@
-# Health and Wellbeing
+---
+title: "Health and Wellbeing"
+---
 
-!!! important
-    Your first priority should always be your own health, safety and well-being.
+::: {.callout-tip}
+Your first priority should always be your own health, safety and well-being.
+:::
 
 No project, paper, grant or collaboration exists that is more important than you.
 Graduate students and postdocs are exposed to a plethora of stress factors, resulting in consequences that can be mild to extremely severe.
@@ -29,13 +32,14 @@ Some other tips, based on experience, are the following:
 1. Use mental health resources! Seeking help with your mental hygiene and wellness is a (well-deserved!) investment in yourself.
 1. Advocate for your needs with the group, and with the Rice community more broadly. We care!
 
-!!! danger
-    If you or someone you know may be considering suicide, contact the National Suicide Prevention Lifeline at 1-800-273-8255.
+::: {.callout-warning}
+If you or someone you know may be considering suicide, contact the National Suicide Prevention Lifeline at 1-800-273-8255.
+:::
 
 ## Campus resources
 
 Providing moral support and guidance is part of James's job as group leader (meaning that you should not hesitate to ask for moral support or guidance!) but he is not a trained psychologist or counselor.
 Fortunately Rice offers free mental wellness services:
 
-* the [Rice Wellbeing and Counseling Center](https://wellbeing.rice.edu/studentwellbeing){:target="_blank"} provides a first point of contact for students who want to talk to someone about solutions to their wellbeing concerns
-* the [Rice Counseling Center](https://wellbeing.rice.edu/counseling-center/about-us){:target="_blank"} offers free, confidential support
+* the [Rice Wellbeing and Counseling Center](https://wellbeing.rice.edu/studentwellbeing) provides a first point of contact for students who want to talk to someone about solutions to their wellbeing concerns
+* the [Rice Counseling Center](https://wellbeing.rice.edu/counseling-center/about-us) offers free, confidential support

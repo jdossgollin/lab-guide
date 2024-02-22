@@ -1,14 +1,18 @@
-# Travel
+---
+title: "Travel"
+---
 
-!!! info "Credit"
-    Specific language on this page comes from the [MemoLab](https://github.com/memobc/memolab-manual){:target="_blank"} at Boston College.
+::: {.callout-tip}
+## Credit
+Specific language on this page comes from the [MemoLab](https://github.com/memobc/memolab-manual) at Boston College.
+:::
 
 ## Funding
 
 The lab will typically pay for full-time lab members to present their work at major conferences (e.g., AGU, ASCE EWRI, etc.).
 In general, the work should be "new" in that it has not been presented previously, and it should be appropriate for the conference.
-This will usually result in one conference per year.
-If you wish to attend any other conference outside of these guidelines, the lab may be willing to reimburse you for the registration fee.
+This will typically result in one conference per year, but is subject to funding.
+If you are interested in attending a conference, please discuss it with me well in advance.
 
 Grant budgets typically estimate flights plus $200 per day for hotel and meal costs, so your reimbursable costs should be around that amount or less.
 If travel expenses are being paid off of a grant, additional restrictions may apply (talk to me).
