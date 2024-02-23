@@ -2,4 +2,15 @@
 title: "Contributing to the Lab Guide"
 ---
 
-Instructions TBD
+If there's something you think can be improved, please contribute!
+
+1. Create an account on GitHub if you don't already have one.
+1. Create an [issue](https://github.com/dossgollin-lab/lab-guide/issues) on the lab guide repository with a description of the change you'd like to make. If it's vague, we can use this issue for further discussion.
+
+If you're comfortable with git and GitHub, you can also make the change yourself:
+
+1. Fork the repository.
+1. Clone the repository to your computer.
+1. Open the repository in a text editor (e.g., VS Code) and make the changes you'd like to see.
+1. Commit your changes and push them to your fork.
+1. Create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to merge your changes into the main repository.

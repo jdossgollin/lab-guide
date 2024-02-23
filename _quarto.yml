@@ -32,21 +32,21 @@ website:
         contents:
           - text: "Responsibilities"
             href: pages/expectations.qmd
-          - text: Health and Well-being
+          - text: Well-being
             href: pages/health.qmd
           - text: Harassment and Discrimination
             href: pages/harassment.qmd
-          - text: Travel
-            href: pages/travel.qmd
 
       - section: "Lab Resources"
         contents:
           - text: "Authorship"
             href: pages/authorship.qmd
-          - text: Software Licenses
-            href: pages/software-license.qmd
           - text: Contribute to the Lab Guide
             href: pages/contribute.qmd
+          - text: Open Science
+            href: pages/open-science.qmd
+          - text: Traveling
+            href: pages/travel.qmd
             
       - section: "Join Us"
         contents:
@@ -63,3 +63,9 @@ format:
     toc: true
     toc-depth: 3
     date-format: long
+  pdf:
+    documentclass: scrreport
+
+# references
+bibliography: _bibliography/library.bib
+csl: _assets/references/american-geophysical-union.csl

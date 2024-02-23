@@ -5,7 +5,7 @@ title: "Harassment"
 This policy on harassment represents a non-negotiable first step towards our mission of building an inclusive, diverse, and equitable environment.
 All members of the research group are required to abide by the following policy on harassment in the workplace and to enforce these guidelines collectively.
 
-::: {.callout-tip}
+::: {.callout-note}
 ## Credit
 Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy). Please help by translating or improving [on GitHub](https://github.com/confcodeofconduct/confcodeofconduct.com). This work is licensed under a Creative Commons Attribution 3.0 Unported License.
 :::

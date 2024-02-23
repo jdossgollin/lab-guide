@@ -2,8 +2,9 @@
 title: "Health and Wellbeing"
 ---
 
-::: {.callout-tip}
-Your first priority should always be your own health, safety and well-being.
+::: {.callout-warning}
+## Priorities
+Your health, safety, and well-being are our top priorities.
 :::
 
 No project, paper, grant or collaboration exists that is more important than you.
@@ -25,16 +26,20 @@ With this in mind, **our group strives to do everything possible to support lab 
 The vacation and workload expectations defined in [Roles and Responsibilities](./expectations.md) are a big part of this.
 Some other tips, based on experience, are the following:
 
-1. Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick. (This will continue to be important even if and when COVID-19 is a memory).
 1. Maintain a healthy sleep schedule.
 1. Pursue interests and hobbies outside of your work. These help relieve stress. They also benefit your research! Stepping away from your problem and letting your mind wander elsewhere is, counterintuitively, a great way to stimulate creative thought.
 1. Develop a support network among your peers. They understand the struggle!
 1. Use mental health resources! Seeking help with your mental hygiene and wellness is a (well-deserved!) investment in yourself.
 1. Advocate for your needs with the group, and with the Rice community more broadly. We care!
 
-::: {.callout-warning}
+::: {.callout-important}
 If you or someone you know may be considering suicide, contact the National Suicide Prevention Lifeline at 1-800-273-8255.
 :::
+
+## Keeping each other healthy
+
+1. Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
+1. 
 
 ## Campus resources
 

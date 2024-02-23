@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Welcome to our Lab Guide
 ---
 
 Welcome to the lab guide for the Doss-Gollin lab in the Department of Civil and Environmental Engineering at Rice University.
@@ -7,9 +7,9 @@ If you're looking for our group's homepage, please find it [here](https://dossgo
 
 This document codifies lab practices and expectations for new and existing group members and is divided into three main sections:
 
-1. **Expectations and conduct** clarifies some of the expectations we have for ourselves and for one another
-1. **Team resources** provides some how-to information. Much of this has moved to our Notion database, but information that's relevant to the public is posted here.
-1. **Joining the Lab** guides prospective group members through the process of joining.
+1. **Lab Expectations** clarifies the expectations we have for ourselves and for one another.
+1. **Lab resources** provides some how-to information and resources for lab members.
+1. **Join Us** guides prospective group members through the process of joining.
 
 ::: {.callout-tip}
 ## Contribute
@@ -18,12 +18,12 @@ Lab and community members are strongly encouraged to contribute to this document
 See [here](pages/contribute.qmd) for instructions.
 :::
 
-## Mission
+### Mission
 
 Our mission is to support the social, environmental, and financial resilience of communities around the world by creatively informing the design and management of infrastructure systems.
 Through mission-oriented basic research guided by community engagement, we develop tools and methods to accurately, transparently, and collaboratively link decisions, outcomes, and preferences.
 
-## Core values
+### Core values
 
 1. **Creativity.**
     As academics, we enjoy the luxuries of freedom and space that allow us to question the status quo and explore new ideas.
@@ -41,6 +41,7 @@ Through mission-oriented basic research guided by community engagement, we devel
     We approach complex problems with a collaborative mindset.
     When we make mistakes, we recognize them and do our best to fix them.
 
+::: {.callout-note}
 ## Credit
 
 The organization and framing of this document borrows heavily from lab guides written by
@@ -53,3 +54,5 @@ the [Aly lab](https://github.com/alylab/labmanual) at Columbia,
 the [Srikrishnan Lab](https://viveks.bee.cornell.edu/lab-manual/) at Cornell,
 and
 the [Keller Lab Group](https://keller-lab.github.io/) at Dartmouth.
+We thank Jordy Padilla and Yash Amonkar for constructive suggestions.
+:::
