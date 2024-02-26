@@ -127,7 +127,7 @@ As a young / small group, it's also important to have interaction with people ou
 
 **How are publication credits discussed in the lab?**
 
-Please see [authorship guidelines](pages/authorship.qmd).
+Please see [authorship guidelines](../guides/authorship.qmd).
 Journals typically have clear expectations about what constitutes authorship and we follow those guidelines.
 The most important rule is to have clear conversations about authorship early on (this is the PI's responsibility but students are always welcome to ask about authorship!)
 
@@ -135,5 +135,5 @@ The most important rule is to have clear conversations about authorship early on
 
 So far we've been fortunate to have avoided significant academic and social misconduct.
 We obviously follow Rice University policies.
-We've also developed a [policy on harassment](../expectations/harassment.md) and other expectations that will guide us if (when) these come up.
+We've also developed a [policy on harassment](../expectations/harassment.qmd) and other expectations that will guide us if (when) these come up.
 In general we set high expectations for ourselves and for one another because a collaborative and open environment, which benefits everyone, requires mutual trust and respect.

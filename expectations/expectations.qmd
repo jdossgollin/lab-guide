@@ -19,12 +19,11 @@ Specific language on this page comes from the [Ocean Transport Group](https://oc
 
 ## Everyone
 
-1. **Team:** Be supportive of your labmates. We are a team.
-1. **Excellence:** Do work that you are proud of. Do work that others will care about. If you feel as though your work does not meet these standards, speak up. Double-check your work -- being a little obsessive is essential to good science!
-1. **Presence:** We learn the most from one another! Group members should physically present in the office at least two days per week and be generally reachable by Slack during normal working hours. You should attend weekly group meetings.
-1. **Produce open science:** see [Open Science](pages/open-science.qmd)
-1. **See also:** Read and agree to the lab expectations (see the pages under "Lab Expectations") as well as to policies on [travel](pages/travel.qmd), [authorship](pages/authorship.qmd).
-1. **Resolving issues:** If you have an issue with another lab member that cannot be solved by talking with them about it, please talk with James. If you have an issue with James, please reach out to another member of the department or the school of engineering.
+1. **Excellence:** do work that you are proud of. Do work that others will care about. If you feel as though your work does not meet these standards, speak up. Double-check your work -- being a little obsessive is essential to good science!
+1. **Team:** be supportive of your labmates. We are a team committed to learning from one another and helping each other succeed.
+1. **Presence:** we learn the most from one another! Group members should physically present in the office at least two days per week and be generally reachable by Slack during normal working hours. You should attend weekly group meetings.
+1. **Produce open science:** see [Open Science](../guides/open-science.qmd)
+1. **Be considerate:** the lab expectations and guides are here for you. Read them, suggest changes you think would be helpful, use this resource.
 
 ## PI responsibilities
 
@@ -40,7 +39,7 @@ As the group leader, James has a unique and challenging range of responsibilitie
 1. **Professional Service:** The PI is expected to participate in professional organizations (e.g. AGU, AMS) and review papers and proposals on an ongoing basis.
 1. **Provide Feedback:** The PI is expected to provide feedback on all aspects of research, including defining hypotheses and formulating questions; identifying specific methods and technical approaches; identifying relevant datasets; writing and debugging scientific code; producing figures and visualizations; managing data; and writing and editing papers. Feedback is also available on course selection, overall career goals, and long-term strategy.
 1. **Provide Material Support:** You are never expected to spend any of your personal finances on anything related to research. All conference travel, computer supplies, books, etc. can be paid for with grant support (see item 2 above). Coordinate these expenses, in advance, with James.
-1. **Provide Moral Support:** Graduate school, and research in general, can be an emotional roller coaster. James has been through these challenges personally and is always available to listen and provide advice (though you should also see the [Health Resources](pages/health.qmd) page).
+1. **Provide Moral Support:** Graduate school, and research in general, can be an emotional roller coaster. James has been through these challenges personally and is always available to listen and provide advice (though you should also see the [Health Resources](health.qmd) page).
 1. **Provide Recommendation Letters:** You need them for almost every career move.
 1. **Set Goals and Timelines:** The PI can help give structure to your project by defining specific milestones and timelines for their completion. Some people prefer to be closely managed in this way, while others may prefer a more hands-off approach.
 1. **Sign Stuff:** There are lots of signatures needed to navigate the bureaucracy.

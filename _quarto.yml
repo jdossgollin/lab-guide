@@ -28,34 +28,36 @@ website:
     contents:
       - text: Home
         href: index.qmd
-      - section: "Lab Expectations"
+      - section: Expectations
         contents:
-          - text: "Responsibilities"
-            href: pages/expectations.qmd
-          - text: Well-being
-            href: pages/health.qmd
           - text: Harassment and Discrimination
-            href: pages/harassment.qmd
+            href: expectations/harassment.qmd
+          - text: Responsibilities
+            href: expectations/expectations.qmd
+          - text: Well-being
+            href: expectations/health.qmd
 
-      - section: "Lab Resources"
+      - section: Guides
         contents:
-          - text: "Authorship"
-            href: pages/authorship.qmd
+          - text: Authorship
+            href: guides/authorship.qmd
           - text: Contribute to the Lab Guide
-            href: pages/contribute.qmd
+            href: guides/contribute.qmd
+          - text: Letters of Recommendation
+            href: guides/lor.qmd
           - text: Open Science
-            href: pages/open-science.qmd
+            href: guides/open-science.qmd
           - text: Traveling
-            href: pages/travel.qmd
+            href: guides/travel.qmd
             
-      - section: "Join Us"
+      - section: Join Us
         contents:
-          - text: "Graduate Admissions"
-            href: pages/gradadmissions.qmd
-          - text: "Undergraduate Reserach"
-            href: pages/undergrad.qmd
-          - text: "Onboarding checklist"
-            href: pages/checklist.qmd
+          - text: Graduate Admissions
+            href: joinus/gradadmissions.qmd
+          - text: Undergraduate Reserach
+            href: joinus/undergrad.qmd
+          - text: Onboarding checklist
+            href: joinus/checklist.qmd
 
 format:
   html:
@@ -63,8 +65,8 @@ format:
     toc: true
     toc-depth: 3
     date-format: long
-  pdf:
-    documentclass: scrreport
+  #pdf:
+  #  documentclass: scrreport
 
 # references
 bibliography: _bibliography/library.bib
