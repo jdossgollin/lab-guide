@@ -65,8 +65,8 @@ format:
     toc: true
     toc-depth: 3
     date-format: long
-  #pdf:
-  #  documentclass: scrreport
+  pdf:
+    documentclass: scrreport
 
 # references
 bibliography: _bibliography/library.bib
