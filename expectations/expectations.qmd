@@ -20,8 +20,8 @@ Specific language on this page comes from the [Ocean Transport Group](https://oc
 ## Everyone
 
 1. **Excellence:** do work that you are proud of. Do work that others will care about. If you feel as though your work does not meet these standards, speak up. Double-check your work -- being a little obsessive is essential to good science!
-1. **Team:** be supportive of your labmates. We are a team committed to learning from one another and helping each other succeed.
-1. **Presence:** we learn the most from one another! Group members should physically present in the office at least two days per week and be generally reachable by Slack during normal working hours. You should attend weekly group meetings.
+1. **Supportive:** be supportive of your labmates. We are a team committed to learning from one another and helping each other succeed.
+1. **Contribute:** group members should be physically present for group meetings and seminars, and should take turns to lead group meetings or discussions.
 1. **Produce open science:** see [Open Science](../guides/open-science.qmd)
 1. **Be considerate:** the lab expectations and guides are here for you. Read them, suggest changes you think would be helpful, use this resource.
 
@@ -49,7 +49,7 @@ As the group leader, James has a unique and challenging range of responsibilitie
 
 Graduate students are both students and workers, leading to a complex range of responsibilities to manage.
 
-1. **Apply for External Funding.** Applying to external funding (e.g., NSF GRFP) that you are eligible for is required of our graduate students, but even if it wasn’t, I would recommend it because it is such a valuable learning experience.
+1. **Apply for External Funding.** Applying to external funding (e.g., NSF GRFP) that you are eligible for is required of our graduate students, but even if it wasn’t, I would recommend it because it is such a valuable learning experience. We maintain a list of funding opportunities on Slack.
 1. **Be Professional and Organized:** Develop a system that works for your for managing your responsibilities, coursework, and research. This is one of the biggest challenges of graduate school and there is no formula that works for everyone.
 1. **Lead 1:1 Meetings** with James. Individual meetings are a time to discuss your research, goals, time management, and any other issues that may be on your mind. It is your job to lead these meetings by sending James an agenda 24 hours in advance, by preparing slides (as needed) for the meeting, and by following up on any action items that are discussed. Do not wait for James to tell you what to do in these meetings -- you should be the one driving the conversation.
 1. **Develop Independence:** Your goal is to become an independent scientist. This means you should not hesitate to pursue your own ideas as they arise. Go to as many talks as you can to learn new things! Read (and re-read) papers in your field and outside it. Download that dataset and analyze it! Run that new model! Don’t wait to be told to do things. Take the initiative.
