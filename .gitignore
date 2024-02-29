@@ -1,3 +1,7 @@
 site/
 _site/
 .jekyll-cache
+
+/.quarto/
+*.html
+*.pdf

@@ -1,0 +1,14 @@
+---
+title: "Onboarding"
+---
+
+1. Read the lab guide and review it with James to discuss any questions or suggestions, and to make sure you understand the expectations and resources available to you.
+1. Set up your computer and work space. You do not need to spend your own money on this. If you need anything, let James know.
+1. Get added to the resources:
+    a. GitHub organization for sharing code
+    a. Slack for quick chats and project discussion
+    a. Zotero for sharing scientific papers and references
+    a. Google Drive folder
+1. Add yourself to the [group website](https://github.com/dossgollin-lab/dossgollin-lab.github.io) via a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (*Confused? You're not born knowing. Ask for help!*):
+    a. add a **square** photo to `assets/images/people/`
+    a. add an entry to `people/` with a bio and other information

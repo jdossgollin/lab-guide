@@ -1,4 +1,6 @@
-# Authorship
+---
+title: "Authorship"
+---
 
 In collaborative research, it is important to talk early and often about authorship.
 It is James's responsability as PI to lead this conversation.
@@ -6,14 +8,14 @@ When collaborating with colleagues in other labs, especially those in different 
 
 ## General Guidelines
 
-A good general reference for authorship is given by the American Geophysical Union [guidelines](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Policies/Scientific-ethics-policy){:target="_blank"}, which state that authors are expected to do the following to contribute the highest quality science to AGU publications:
+A good general reference for authorship is given by the American Geophysical Union [guidelines](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Policies/Scientific-ethics-policy), which state that authors are expected to do the following to contribute the highest quality science to AGU publications:
 
 1. Present a precise and accurate account of the research performed and a clear, objective discussion of its significance.
 1. Include sufficient detail and reference to sources of information in a manuscript to permit the author’s peers to repeat the work. Limitations on use of or access to data must be clearly identified.
 1. Identify sources of all information and cite those publications that have been influential in determining the nature of the reported work and that guide the reader quickly to the primary and other earlier work essential for understanding the present investigation. Information obtained privately, as in conversation or correspondence, should not be used or reported without explicit permission from the source.
 1. Carefully document methodology, assumptions, and uncertainty.[^uncertainty]
 1. Follow the appropriate procedures in force in their countries that govern the ethics of work done with human or animal subjects.
-1. Never plagiarize the work or ideas of others or your own work. Always provide appropriate citation. [The AGU provides further [information](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Policies/Scientific-ethics-policy){:target="_blank"} on plagiarism, which you should read.]
+1. Never plagiarize the work or ideas of others or your own work. Always provide appropriate citation. [The AGU provides further [information](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Policies/Scientific-ethics-policy) on plagiarism, which you should read.]
 1. Avoid unnecessary fragmentation or redundant publication of research reports to artificially increase the number of publications.
 1. Never include personal criticism in a written piece of work.
 1. Report to the editor any changes made to the manuscript after acceptance.

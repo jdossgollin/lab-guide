@@ -1,4 +1,6 @@
-# Graduate Admissions
+---
+title: "Graduate Admissions"
+---
 
 If you are unsure whether you would be a good fit, you can send me an email of interest.
 Please see below for instructions (if you send me a generic email I probably won't respond!)
@@ -24,28 +26,22 @@ You are strongly encouraged (though *not required*) to reach out before formally
 If you send me an email, you will get a template email directing you to fill out the form.
 I get too many emails from prospective students to keep track of all of them effectively.
 
-??? seealso "1. Decide if you are interested"
-
-    Read relevant websites and [example papers](https://dossgollin-lab.github.io/publications/) to judge whether this is a good fit.
-    Note the kind of quantitative  research we do, the approaches we use, and the problems we analyze.
-    Feel free to explore websites of coauthors and close collaborators.
-    Review the core values we adopt in the lab group (described int his document) and decide whether they are compatible with your values and goals.
-
-??? seealso "2. Fill out the form"
-
+1. **Decide if you are interested**
+    - Read relevant websites and [our papers](https://dossgollin-lab.github.io/publications/) to judge whether this is a good fit.
+    - Note the kind of quantitative  research we do, the approaches we use, and the problems we analyze.
+    - Feel free to explore websites of coauthors and close collaborators.
+    - Review the core values we adopt in the lab group (described int his document) and decide whether they are compatible with your values and goals.
+2. **Fill out the form"**
     If you are still interested and see the potential for a good fit, [**fill out the form for prospective applicants**](https://forms.gle/MfcpHnA6E3R2NuSn6).
-
-    1. This form asks for a statement of purpose.
+    - This form asks for a statement of purpose.
     See ["how to write a good application"](#how-to-write-a-good-application) for some helpful tips on how to write a good one!
     Statements that do not follow these tips are unlikely to stand out and will probably not lead to you being accepted.
-    1. Fill out all requested questions thoughtfully. I suggest to draft text inputs in another application so that if your internet connection is disrupted nothing is lost.
-    1. I will follow up via email.
-
-??? seealso "3. Video chats"
-
-    1. These are intended to evaluate your verbal communications skills and how well you can articulate your interests. If a video chat does not work for you, we can find alternatives.
-    1. There is no need for fancy backgrounds, formal presentations, or for dressing up.
-    1. If this is of joint interest, you should apply formally to the department (see next)
+    -  Fill out all requested questions thoughtfully. I suggest to draft text inputs in another application so that if your internet connection is disrupted nothing is lost.
+    -  I will follow up via email.
+3. **Video chats**
+    - These are intended to evaluate your verbal communications skills and how well you can articulate your interests. If a video chat does not work for you, we can find alternatives.
+    - There is no need for fancy backgrounds, formal presentations, or for dressing up.
+    - If this is of joint interest, you should apply formally to the department (see next)
 
 ### The formal application
 
@@ -53,56 +49,7 @@ Whether you have been in touch or not, **you must apply to the [Department of Ci
 This will give the department an opportunity to view your transcripts, letters of recommendation, and statement of purpose.
 Of these, the step you most control is the statement of purpose; see [below](#how-to-write-a-good-application) for tips on information on how to write a strong statement of purpose that enhances your chances of admission.
 
-### After formally applying
-
-??? seealso "1. Guided paper evaluation"
-
-    If your application suggests a good potential fit, we'll move on to the next step.
-    James will send you an email asking you to provide a written evaluation of a research paper, which will be selected based on your discussed interests.
-    The goal of this evaluation is to get a sense of your reading, writing, and critical thinking skills.
-    
-    Limit the evaluation to three page (12 point font) and address these questions:
-
-    1. What are the main research questions and hypotheses of the paper?
-    1. What are the key results?
-    1. What are (potential) caveats?
-    1. How would you improve on the paper?
-    
-    This evaluation is governed by the [Rice Honor Policy](https://honor.rice.edu/frequently-asked-questions/).
-    Please briefly review this document and include the pledge("On my honor, I have neither given nor received any unauthorized aid on this assignment").
-
-    1. You should do this work on your own, without communicating with advisors, colleagues, etc.
-    1. You may use information on the web -- not only bibliographic search tools but also Wikipedia, PubPeer, Hypothesis, etc. However, you must attribute your sources.
-    1. Please use a formal bibliographic style such as APA, AGU, or similar for citing scholarly works. You may reference web sites and other materials using endnotes. References do not count toward the page limit.
-    1. You may use large language models (e.g., ChatGPT) to help you write your evaluation. However, you should be prepared to answer detailed questions about what you have written and to explain your reasoning, which will be hard if you haven't read the paper carefully. You must also cite the model you used.
-    1. Please return your paper evaluation within seven days (if you think this will be a constraint, communicate this ahead of time and we can give additional time)
-
-??? seealso "2. Formal interview"
-
-    If your guided paper evaluation suggests you have the critical reading and writing skills to succeed in the program, we'll move on to the next step.
-    The goal of this interview is to get a sense of your communication skills and to follow up on your application.
-
-    1. Please prepare a 12-15 minute presentation summarizing the guided paper evaluation that you submitted.
-    1. James will ask you follow up questions about the guided paper evaluation.
-    1. James will ask you follow up questions about a research project you have worked on.
-    1. James will ask you some general questions about your academic and professional goals.
-    1. You will have time to ask James any questions that you have.
-
-??? seealso "3. Meet the group"
-
-    If your interview suggests you would be likely be a good fit for our group, we will move to the next step: you meeting the group.
-    The goal of this visit is to get a sense of how you would interact with current group members and to hear you articulate your research interests and goals.
-    
-    1. This visit may be in-person or remotely, depending on travel logistics
-    1. Please prepare a short presentation for the group about a research idea. This should cover *research you want to do*, not research you have already done.
-    1. Feel free to reach out to other lab-group members or collaborators to ask questions!
-
-??? seealso "4. Join the group"
-
-    If your meeting suggests a good fit, we move to the last step: you joining the group.
-
-    1. You will be formally admitted to the Rice Ph.D. program.
-    1. You join the lab group and we start doing exciting work!
+After formal applications are submitted, I will follow up with information on a formal interview.
 
 ## How to write a good application
 
@@ -180,7 +127,7 @@ As a young / small group, it's also important to have interaction with people ou
 
 **How are publication credits discussed in the lab?**
 
-Please see [`authorship`](../policies/authorship.md).
+Please see [authorship guidelines](../guides/authorship.qmd).
 Journals typically have clear expectations about what constitutes authorship and we follow those guidelines.
 The most important rule is to have clear conversations about authorship early on (this is the PI's responsibility but students are always welcome to ask about authorship!)
 
@@ -188,5 +135,5 @@ The most important rule is to have clear conversations about authorship early on
 
 So far we've been fortunate to have avoided significant academic and social misconduct.
 We obviously follow Rice University policies.
-We've also developed a [policy on harassment](../expectations/harassment.md) and other expectations that will guide us if (when) these come up.
+We've also developed a [policy on harassment](../expectations/harassment.qmd) and other expectations that will guide us if (when) these come up.
 In general we set high expectations for ourselves and for one another because a collaborative and open environment, which benefits everyone, requires mutual trust and respect.
