@@ -26,27 +26,19 @@ website:
     pinned: true
     search: true
     contents:
+
       - text: Home
         href: index.qmd
+
+      - text: Lab How-To Guides
+        href: guides.qmd
+
       - section: Expectations
         contents:
           - text: Harassment
             href: expectations/harassment.qmd
           - text: Expectations and Professionalism
             href: expectations/expectations.qmd
-
-      - section: Guides
-        contents:
-          - text: Authorship
-            href: guides/authorship.qmd
-          - text: Contribute to the Lab Guide
-            href: guides/contribute.qmd
-          - text: Letters of Recommendation
-            href: guides/lor.qmd
-          - text: Open Science
-            href: guides/open-science.qmd
-          - text: Traveling
-            href: guides/travel.qmd
             
       - section: Join Us
         contents:
@@ -54,8 +46,6 @@ website:
             href: joinus/gradadmissions.qmd
           - text: Undergraduate Reserach
             href: joinus/undergrad.qmd
-          - text: Onboarding checklist
-            href: joinus/checklist.qmd
 
 format:
   html:

@@ -1,0 +1,64 @@
+---
+title: "Open Science: Why It Matters and How We're Committed to It"
+author: James Doss-Gollin
+date: 2024-06-26
+categories: [open-science, research-practices, scientific-integrity]
+---
+
+In an era where scientific progress is more crucial than ever, our lab is firmly committed to the principles of open science.
+But what exactly is open science, and why does it matter so much?
+Let's dive in.
+
+## What is Open Science?
+
+Open science is the idea that scientific research should be transparent and accessible to everyone.
+It encompasses several key concepts:
+
+1. **Reproducibility**: This means obtaining consistent computational results using the same input data, methods, code, and conditions of analysis.
+2. **Replicability**: This involves obtaining consistent results across different studies aimed at answering the same scientific question, each with its own data.
+3. **Accessibility**: Making research findings, data, and methods available to all levels of society, both amateur and professional.
+
+## Why Does Open Science Matter?
+
+The Center for Open Science puts it beautifully:
+
+> "An open exchange of ideas accelerates scientific progress towards solving humanity's most persistent problems.
+> The challenges of disease, poverty, education, social justice, and the environment are too urgent to waste time on studies lacking rigor, outcomes that are never shared, and findings that are not reproducible."
+
+In our field of climate change adaptation, the need for open science is particularly acute.
+Unfortunately, our field faces severe problems with reproducibility and replicability.
+By embracing open science, we can:
+
+1. Ensure our assumptions and modeling choices are transparent and documented, enabling scientific critique and discussion.
+2. Make our research findings accessible to the public, including those who can't afford expensive academic journal subscriptions.
+3. Build more effectively on our own work in the future.
+
+## Our Commitment to Open Science
+
+In our lab, we're dedicated to supporting and contributing to open science.
+Here's how we put this commitment into practice:
+
+1. **Reproducibility**: We make our data, code, and computational environments publicly available, typically no later than the publication of our work.
+2. **Open-Source Tools**: We prioritize using fully open-source tools.
+When proprietary software or data is necessary, we document its use clearly and provide alternatives where possible.
+3. **Open Access**: We publish in open-access journals where appropriate and make post-prints freely available when not.
+We also share preprints on open-access servers.
+4. **Public Communication**: We summarize our findings in non-technical blog posts, translate papers as needed, and use social media to share key findings.
+5. **Software Licensing**: We use permissive open-source licenses for our code, respecting and complying with licensing terms.
+6. **Toolkit**: We employ various tools to facilitate reproducible science, including Python, Julia, Git, GitHub, Snakemake, Zenodo, and more.
+
+## The Bigger Picture
+
+Open science isn't just about making our work easier to verify and build upon – though that's certainly important.
+It's about democratizing knowledge and accelerating scientific progress.
+By making our research open and accessible, we're contributing to a global effort to address urgent challenges like climate change, poverty, and social justice.
+
+As more institutions, including NASA, the White House, and the NSF, emphasize open science, we're proud to be at the forefront of this movement.
+We're committed to training our group members in open science practices, ensuring that the next generation of scientists is equipped to carry this torch forward.
+
+In the end, open science is about more than just our lab or our field.
+It's about creating a more transparent, collaborative, and effective scientific community – one that's better equipped to tackle the complex challenges facing our world today.
+
+## Read more
+
+- Open science is hard. @pollack_transparency:2024 documents gaps between our community's stated principles and our actual practices, and discusses why open science is so important in the field of climate risk.
