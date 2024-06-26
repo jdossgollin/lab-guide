@@ -30,12 +30,10 @@ website:
         href: index.qmd
       - section: Expectations
         contents:
-          - text: Harassment and Discrimination
+          - text: Harassment
             href: expectations/harassment.qmd
-          - text: Responsibilities
+          - text: Expectations and Professionalism
             href: expectations/expectations.qmd
-          - text: Well-being
-            href: expectations/health.qmd
 
       - section: Guides
         contents:
