@@ -21,7 +21,7 @@ Specific language on this page comes from the [Ocean Transport Group](https://oc
 1. **Environment:** Foster a supportive team environment committed to mutual learning and success. Support and help your labmates. Read and follow lab guidelines, suggesting improvements when you see opportunities. Take initiative in your work and in advancing the lab's mission.
 2. **Workload:** Treat your research as a full-time job, aiming for an average of 40 hours per week. This approach ensures consistent progress while allowing you to benefit from the flexibility academic research offers.
 3. **Presence:** Be an active participant in the lab. Attend and contribute to group meetings and seminars, taking turns to lead discussions. Be present in the lab during agreed times and respect shared spaces.
-4. **Open Science:** Adhere to our [Open Science](../guides/open-science.qmd) guidelines to ensure our work is accessible and reproducible.
+4. **Open Science:** Adhere to our [Open Science](../posts/open-science.qmd) guidelines to ensure our work is accessible and reproducible.
 5. **Manage Up:** Take responsibility for your relationship with your advisor(s). Schedule and lead regular 1:1 meetings, preparing agendas and following up on action items. Communicate your needs, goals, and challenges clearly. Seek feedback proactively, propose solutions rather than just problems, and provide respectful feedback on your working relationship.
 
 ### Health and Well-being
