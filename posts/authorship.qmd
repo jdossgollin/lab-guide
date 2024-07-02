@@ -2,7 +2,7 @@
 title: "Navigating Authorship in Collaborative Research: A Practical Guide"
 author: James Doss-Gollin
 date: 2024-06-26
-categories: [research-ethics, collaboration, publishing]
+categories: [collaboration, publishing, for-undergrads, for-grad-students, for-postdocs]
 ---
 
 You know that publishing is critical to your success as a researcher, but have you ever found yourself in an awkward conversation about authorship?

@@ -2,7 +2,7 @@
 title: "A Guide to Requesting Letters of Recommendation: Ensuring Strong Support for Your Applications"
 author: James Doss-Gollin
 date: 2024-06-26
-categories: [academic-advice, career-development, mentorship]
+categories: [for-undergrads, for-grad-students, for-postdocs, career-development]
 ---
 
 Letters of Recommendation (LORs) play a crucial role in our field, significantly impacting applications for graduate school, academic positions, and industry jobs.

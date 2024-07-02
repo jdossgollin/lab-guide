@@ -2,7 +2,7 @@
 title: "Help Shape Our Lab: Contributing to the Lab Guide"
 author: James Doss-Gollin
 date: 2024-06-26
-categories: [collaboration, open-science, lab-management]
+categories: [collaboration, open-science, for-undergrads, for-grad-students, for-postdocs]
 ---
 
 Ever read through our lab guide and thought, "Hmm, I have an idea to make this even better"? 

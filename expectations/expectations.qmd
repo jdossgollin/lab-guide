@@ -1,52 +1,72 @@
 ---
-title: "Expectations and Professionalism"
+title: "Core Expectations"
 ---
 
 This document outlines the responsibilities and expectations for everyone in the group.
 It is a living document and will be updated as the group evolves.
-By joining this group, you agree to uphold these standards and contribute to a professional, supportive, and healthy environment that values and celebrates the diversity within our community.
 
 ::: {.callout-tip}
 ## Caveat
-Guidelines from Rice University, Rice Engineering, and Rice CEVE take precedence over this section. If you believe that something on this page is at odds with university policy, please notify James.
+
+Guidelines from Rice University, Rice Engineering, and Rice CEVE take precedence over this section.
+If you believe that something on this page is at odds with university policy, please notify James.
 :::
 
 ::: {.callout-note}
 ## Credit
+
 Specific language on this page comes from the [Ocean Transport Group](https://ocean-transport.github.io/) at the Lamont-Doherty Earth Observatory and the [MemoLab](https://github.com/memobc/memolab-manual) at Boston College.
 :::
 
 ## Everyone
 
 1. **Environment:** Foster a supportive team environment committed to mutual learning and success. Support and help your labmates. Read and follow lab guidelines, suggesting improvements when you see opportunities. Take initiative in your work and in advancing the lab's mission.
-2. **Workload:** Treat your research as a full-time job, aiming for an average of 40 hours per week. This approach ensures consistent progress while allowing you to benefit from the flexibility academic research offers.
-3. **Presence:** Be an active participant in the lab. Attend and contribute to group meetings and seminars, taking turns to lead discussions. Be present in the lab during agreed times and respect shared spaces.
-4. **Open Science:** Adhere to our [Open Science](../posts/open-science.qmd) guidelines to ensure our work is accessible and reproducible.
-5. **Manage Up:** Take responsibility for your relationship with your advisor(s). Schedule and lead regular 1:1 meetings, preparing agendas and following up on action items. Communicate your needs, goals, and challenges clearly. Seek feedback proactively, propose solutions rather than just problems, and provide respectful feedback on your working relationship.
+1. **Workload:** Treat your research as a full-time job, aiming for an average of 40 hours per week. This approach ensures consistent progress while allowing you to benefit from the flexibility academic research offers.
+1. **Presence:** Be an active participant in the lab. Attend and contribute to group meetings and seminars, taking turns to lead discussions. Be present in the lab during agreed times and respect shared spaces.
+1. **Manage Up:** You are responsible for managing your relationship with your advisor(s). Schedule and lead regular 1:1 meetings, preparing agendas and following up on action items. Communicate your needs, goals, and challenges clearly. Seek feedback proactively, propose solutions rather than just problems, and provide respectful feedback on your working relationship.
+
+### Open Science
+
+Open science is the idea that scientific research should be transparent and accessible to everyone, especially including the taxpaying public that funds a substantial portion of our research.
+Open science is about democratizing knowledge and accelerating scientific progress to address urgent challenges like climate change, flooding, and poverty.
+Some key concepts of open science are:
+
+1. **Reproducibility**: This means obtaining consistent computational results using the same input data, methods, code, and conditions of analysis.
+2. **Replicability**: This involves obtaining consistent results across different studies aimed at answering the same scientific question, each with its own data.
+3. **Accessibility**: Making research findings, data, and methods available to all levels of society, both amateur and professional.
+
+Implementing this takes skills, and it's James's responsibility to provide training and resources to help you develop them, but committing to these principles is everyone's responsibility.
+For example:
+
+1. We make our data, code, and computational environments publicly available, typically no later than the publication of our work.
+1.  We prioritize using fully open-source tools whenever possible. When proprietary software or data is necessary, we document its use clearly and provide alternatives where possible.
+1.  We publish in open-access journals where appropriate and make post-prints freely available when not. We also share preprints on open-access servers.
+1.  We summarize our findings in non-technical blog posts, translate papers as needed, and use social media to share key findings.
+1.  We use permissive open-source licenses for our code, respecting and complying with licensing terms.
+1.  We employ various tools to facilitate reproducible science, including Python, Julia, Git, GitHub, Snakemake, Zenodo, and more.
 
 ### Health and Well-being
 
 Academia can be stressful, and it's important to take care of yourself.
+Here are some tips:
 
 1. Maintain a healthy sleep schedule.
 2. Pursue interests and hobbies outside of work to relieve stress and stimulate creative thought.
 3. Develop a support network among your peers who understand the challenges.
 4. Use mental health resources when needed. Seeking help is a worthy investment in yourself.
 5. Stay home when sick to protect your health and that of others.
-6. Use Rice's mental health resources:
+6. Take advantage of Rice's mental health resources:
    - [Wellbeing and Counseling Center](https://wellbeing.rice.edu/studentwellbeing)
    - [Counseling Center](https://wellbeing.rice.edu/counseling-center/about-us)
-
-Remember, no project, paper, grant, or collaboration is more important than your well-being.
 
 ## Specific Responsibilities
 
 We all have different roles and responsibilities in the lab.
 Here are some guidelines based on your role.
 
-### PI
+### PI (James)
 
-1. **Build an Inclusive Environment:** Manage the lab's social dynamic to create a welcoming, inclusive, and productive atmosphere.
+1. **Environment:** Manage the lab's social dynamic to create a welcoming, inclusive, and productive atmosphere that brings out the best in everyone and celebrates diverse perspectives.
 2. **Define Research Directions:** Identify socially relevant and scientifically novel research questions, leveraging field awareness, creativity, and insight.
 3. **Provide Technical Leadership:** Establish a software and hardware environment that maximizes productivity for all team members.
 4. **Scientific Mentoring:** Guide junior members in developing into independent scientists through regular meetings, feedback, and strategic planning.
@@ -59,7 +79,7 @@ Here are some guidelines based on your role.
 
 ### Graduate Students
 
-1. **Apply for External Funding:** This is required and provides valuable experience. We maintain a list of opportunities on Slack.
+1. **Apply for External Funding:** This is required and provides valuable experience. We maintain a list of opportunities.
 2. **Be Professional and Organized:** Develop a system for managing responsibilities, coursework, and research.
 4. **Develop Independence:** Pursue your own ideas, attend diverse talks, read widely, and take initiative in your research.
 5. **Focus on Research:** Prioritize research over other duties, approaching it with full-time job seriousness.

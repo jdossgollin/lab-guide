@@ -37,7 +37,7 @@ website:
         contents:
           - text: Harassment
             href: expectations/harassment.qmd
-          - text: Expectations and Professionalism
+          - text: Core Expectations
             href: expectations/expectations.qmd
             
       - section: Join Us
