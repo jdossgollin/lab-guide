@@ -3,12 +3,12 @@ title: "Lab How-To Guides"
 description: "Explore our collection of guides covering everything from authorship etiquette to open science practices. Find the information you need to thrive in our lab and beyond."
 listing:
   contents: "posts/"
-  type: grid
+  type: table
   sort: "date desc"
   categories: true
   sort-ui: true
   filter-ui: true
-  fields: [title, date, reading-time, description, categories]
+  fields: [title, author, date]
   feed: true
 page-layout: full
 toc: true
