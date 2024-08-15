@@ -1,0 +1,72 @@
+---
+title: "Reference Management with Zotero: A Comprehensive Guide for Research Lab Members"
+author: James Doss-Gollin
+date: 2024-08-15
+categories: [publishing, for-undergrads, for-grad-students, for-postdocs]
+---
+
+Efficient management of references and literature is crucial.
+This post introduces Zotero, an open-source reference management tool that stands out for its versatility, extensibility, open-source commitments, and collaborative features.
+We'll explore why Zotero is our lab's preferred choice and how to set it up for optimal use within our research group.
+
+## Why Zotero?
+
+Zotero offers several key advantages that make it ideal for our lab:
+
+1. It's open-source, aligning with principles of accessibility and transparency in research.
+2. We have access to unlimited storage through Rice University's Fondren Library.
+3. A wide range of plugins allows for customization to fit various research workflows.
+4. Built-in features for annotating PDFs and sharing annotations enhance collaborative research.
+5. Zotero integrates seamlessly with Google Docs, Microsoft Word, and LaTeX.
+6. Shared collections facilitate easy sharing of resources within our research group.
+
+::: {.callout-important}
+**Lab Members**: To access our shared resources, ask James to add you to the `dossgollin-lab` group in Zotero.
+:::
+
+## Setting Up Zotero
+
+### Essential Plugins
+
+Zotero uses open-source plugins to extend its functionality.
+You can download them [here](https://www.zotero.org/support/plugins).
+The two most essential plugins for our lab are:
+
+1. **Better BibTeX**: Provides advanced BibTeX export options, crucial for LaTeX users.
+2. **Zotero Connectors**: Browser extensions that streamline saving references from web pages.
+
+To install a plugin in Zotero, download its `.xpi` file to your computer. Then, in Zotero, click “Tools → Add-ons” and drag the `.xpi` onto the Add-ons window. 
+
+### Configuring Better BibTeX
+
+Follow these steps to ensure consistency across our lab's citations:
+
+1. Go to Zotero preferences, then to the Better BibTeX section.
+2. Under "Citation key format", enter: `[auth:lower]_[ShortTitle:lower]:[year]`
+3. Check the box to "Force citation key to ASCII"
+4. In the Export tab:
+   - Enable "Export Unicode as plain-text LaTeX commands"
+   - Enable "Use BibLaTeX extended name format"
+   - Enable "Add JSTOR/Google Books/PubMed Central IDs to extra field"
+   - In "Fields to omit", enter: `abstract,file,annotation,local-url,rating,read,uri,keywords`
+
+::: {.callout-tip}
+If you don't have a Rice email yet, set up Zotero now and add your Rice email later for free unlimited storage.
+:::
+
+## Best Practices for Lab Use
+
+There are many "right" ways to set up Zotero.
+By following these guidelines, we can streamline our reference management process, enhance collaboration, and maintain consistency across our lab's publications and projects.
+
+1. Use the configured citation key format for all references.
+2. Sync your Zotero library regularly to maintain up-to-date shared collections.
+3. When annotating shared PDFs, consider using a consistent color scheme or tagging system.
+4. For LaTeX projects, the first author is responsible for generating the final `.bib` file from the shared Zotero collection.
+5. Each collaborative document (e.g., a paper or a research proposal) should get a separate Zotero collection, and we can add relevant references to the right collection.
+
+## Useful Refernces
+
+1. Fondren Library tutorial on [Zotero and Citation Management](https://fondrenlearning.blogs.rice.edu/zotero/)
+1. Mushtaq Bilal's list of 15 Zotero tutorials ([Twitter Post](https://x.com/MushtaqBilalPhD/status/1611821066019827713))
+1. [Getting Started on Zotero: A Step-by-Step Tutorial](https://keepwriting.beehiiv.com/p/getting-started-zotero-stepbystep-tutorial) blog post

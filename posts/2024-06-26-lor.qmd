@@ -51,6 +51,7 @@ By following these guidelines, you can significantly enhance the quality and imp
 If you have any questions about this process, please don't hesitate to reach out.
 I'm here to support your academic and professional growth.
 
----
 
+::: {.callout-tip}
 *Note: Shout out to the [Peelle Lab](http://peellelab.org/) at Washington University in Saint Louis for contributing some of the specific language used in this guide.*
+:::
