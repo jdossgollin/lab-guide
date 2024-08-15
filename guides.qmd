@@ -1,0 +1,21 @@
+---
+title: "Lab How-To Guides"
+description: "Explore our collection of guides covering everything from authorship etiquette to open science practices. Find the information you need to thrive in our lab and beyond."
+listing:
+  contents: "posts/"
+  type: table
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [title, author, date]
+  feed: true
+page-layout: full
+toc: true
+toc-location: right
+---
+
+Welcome to our lab's resource hub!
+Here you'll find a collection of guides to help you navigate your research journey.
+Whether you're a new member or a seasoned researcher, these resources are designed to support your work and uphold our lab's values.
+

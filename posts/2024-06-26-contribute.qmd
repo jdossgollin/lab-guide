@@ -1,0 +1,50 @@
+---
+title: "Help Shape Our Lab: Contributing to the Lab Guide"
+author: James Doss-Gollin
+date: 2024-06-26
+categories: [collaboration, open-science, for-undergrads, for-grad-students, for-postdocs]
+---
+
+Ever read through our lab guide and thought, "Hmm, I have an idea to make this even better"? 
+Great news – we're all ears! 
+Our lab guide is a living document, and we believe that the best ideas come from collaboration.
+So, whether you're a seasoned GitHub pro or new to the world of version control, we've got a way for you to contribute.
+Let's walk through how you can help improve our lab guide.
+
+## The Easy Way: Creating an Issue
+
+Not comfortable diving into the code? No problem! Here's how you can suggest improvements:
+
+1. First things first, create an account on GitHub if you haven't already. It's free and takes just a minute.
+2. Head over to our [lab guide repository](https://github.com/dossgollin-lab/lab-guide/issues) and click on the "Issues" tab.
+3. Click the green "New issue" button and describe the change you'd like to see.
+4. Hit submit and voila! You've just contributed to improving our lab guide.
+
+Don't worry if your idea isn't fully fleshed out. 
+We can use the issue for further discussion and refine the concept together.
+
+## The Git-Savvy Way: Making the Change Yourself
+
+Feeling a bit more adventurous? If you're comfortable with git and GitHub, you can make the change yourself:
+
+1. Start by forking the repository. This creates your own copy of the lab guide that you can modify.
+2. Clone the repository to your computer. This brings the files to your local machine.
+3. Fire up your favorite text editor (we're fans of VS Code around here) and make the changes you'd like to see.
+4. Commit your changes and push them to your fork. This updates your personal copy on GitHub.
+5. Finally, create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). This is your way of saying, "Hey team, I've made some changes. What do you think?"
+
+We'll review your pull request, potentially suggest some tweaks, and if all looks good, merge it into the main lab guide.
+
+## Why Your Contribution Matters
+
+Every suggestion, no matter how small, helps make our lab guide more comprehensive, clear, and useful. 
+Your unique perspective could be just what we need to improve our processes or clarify a confusing section.
+
+Plus, contributing to the lab guide is a great way to familiarize yourself with GitHub – a skill that's increasingly valuable in the world of collaborative research.
+
+So, what are you waiting for? 
+Dive in and help us make our lab guide the best it can be.
+Your future self (and your labmates) will thank you!
+
+Got questions about the process? 
+Don't hesitate to reach out. 

@@ -1,0 +1,57 @@
+---
+title: "A Guide to Requesting Letters of Recommendation: Ensuring Strong Support for Your Applications"
+author: James Doss-Gollin
+date: 2024-06-26
+categories: [for-undergrads, for-grad-students, for-postdocs, career-development]
+---
+
+Letters of Recommendation (LORs) play a crucial role in our field, significantly impacting applications for graduate school, academic positions, and industry jobs.
+While writing these letters is primarily a PI responsibility **and part of your PI's job**, there are several steps you can take to ensure you receive a strong and effective letter.
+This guide aims to demystify the process and provide you with practical advice for securing impactful letters of recommendation.
+
+## Determining When to Request a Letter
+
+As a general policy, I (James) will write a letter for any student or lab member who has worked in the lab for at least three months.
+This timeframe allows me to adequately evaluate your work and contributions.
+For shorter-term lab members, letters may be provided in exceptional circumstances, such as new graduate students or postdocs applying for fellowships.
+
+If you've only taken a class with me and haven't worked in the lab, I may not be the strongest letter writer for you.
+In such cases, I can only speak to your performance in class.
+However, if you need a letter and don't have better options, you're welcome to ask.
+
+## How to Request a Letter of Recommendation
+
+To ensure a smooth process and a strong letter, please follow these guidelines:
+
+1. **Provide ample notice**: Request the letter at least three weeks before the deadline. More time is always appreciated.
+
+2. **Submit key information in a single email**: Please don't use Slack for this request. Include:
+   - The letter deadline
+   - Key points to focus on:
+     - What you hope I will highlight about you
+     - How your application will be evaluated
+     - Why I am particularly well-suited to write your letter
+   - Any materials you've submitted as part of your application (draft materials are acceptable)
+   - Clear instructions on how to submit the letter
+   - A critical self-assessment: Discuss your strengths and areas for growth
+
+3. **Keep communication open**: Provide updates as the deadline approaches.
+
+## Best Practices for Securing Strong Letters
+
+To maximize the effectiveness of your letters of recommendation, consider the following resources:
+
+- Read Matt Might's article on ["How to get a great letter of recommendation"](http://matt.might.net/articles/how-to-recommendation-letter/). It offers valuable insights into the process.
+
+- Review this informative [Twitter thread by Dr. Arianna Long](https://twitter.com/astroarianna/status/1582039372282486786), which details how she improved her application success rate, with a focus on securing strong letters of recommendation.
+
+Remember, the strength of your letter of recommendation depends not only on my writing but also on the groundwork you lay in preparing your request and providing comprehensive information.
+By following these guidelines, you can significantly enhance the quality and impact of your letters of recommendation.
+
+If you have any questions about this process, please don't hesitate to reach out.
+I'm here to support your academic and professional growth.
+
+
+::: {.callout-tip}
+*Note: Shout out to the [Peelle Lab](http://peellelab.org/) at Washington University in Saint Louis for contributing some of the specific language used in this guide.*
+:::

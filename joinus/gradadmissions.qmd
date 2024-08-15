@@ -127,7 +127,7 @@ As a young / small group, it's also important to have interaction with people ou
 
 **How are publication credits discussed in the lab?**
 
-Please see [authorship guidelines](../guides/authorship.qmd).
+Please see [authorship guidelines](../posts/authorship.qmd).
 Journals typically have clear expectations about what constitutes authorship and we follow those guidelines.
 The most important rule is to have clear conversations about authorship early on (this is the PI's responsibility but students are always welcome to ask about authorship!)
 

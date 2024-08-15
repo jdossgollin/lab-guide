@@ -1,0 +1,61 @@
+---
+title: "Navigating Authorship in Collaborative Research: A Practical Guide"
+author: James Doss-Gollin
+date: 2024-06-26
+categories: [collaboration, publishing, for-undergrads, for-grad-students, for-postdocs]
+---
+
+You know that publishing is critical to your success as a researcher, but have you ever found yourself in an awkward conversation about authorship?
+Picture this: you share ideas with a colleague, jump on Zoom calls to discuss their paper with them, share some code snippets to help them out, and then... you see the paper published with your name in the acknowledgements rather than on the author list where you expected it to be.
+
+Deciding how authorship is allocated can be tricky, and when done poorly, it can create conflicts that undermine the very collaboration that produced the research.
+We want to avoid that!
+This guide aims to provide you with practical advice on handling this crucial topic effectively, ensuring your research collaborations remain productive and harmonious.
+
+## The Importance of Early Discussions
+
+In collaborative research, it's essential to discuss authorship early and often.
+As the Principal Investigator, James is responsible for initiating these conversations.
+This becomes even more critical when collaborating with colleagues from other labs, especially those in different fields where authorship norms may vary.
+Clear and frequent communication about authorship is key to avoiding misunderstandings and potential conflicts.
+
+## General Guidelines for Authorship
+
+The American Geophysical Union (AGU) provides excellent [guidelines for authorship](https://www.agu.org/publications/authors/policies) that are applicable across many scientific fields.
+Here's a summary of their recommendations:
+
+1. **Accuracy and Objectivity**: Present your research precisely and discuss its significance objectively.
+2. **Reproducibility**: Include sufficient detail for peers to replicate your work. Be transparent about any limitations on data access.
+3. **Proper Citation**: Identify and cite influential sources and primary work essential to understanding your research.
+4. **Thorough Documentation**: Clearly document your methodology, assumptions, and uncertainties.
+5. **Ethical Compliance**: Follow appropriate procedures for work with human or animal subjects.
+6. **Avoid Plagiarism**: Always provide appropriate citation for others' work and your own previous work.
+7. **Focused Publication**: Avoid unnecessary fragmentation of research reports.
+8. **Professionalism**: Refrain from personal criticism in written work.
+9. **Transparency**: Report any post-acceptance changes to the editor.
+10. **Appropriate Co-authorship**: Include only those who made significant scientific contributions and determine authorship order appropriately.
+11. **Conflict of Interest Disclosure**: Reveal any potential conflicts of interest to the editor.
+12. **Acknowledgment of Support**: List all funding sources and other support in the acknowledgments.
+13. **Co-author Communication**: As the corresponding author, keep all co-authors informed about manuscript changes during peer review.
+
+While these guidelines are mandatory for AGU journal submissions, they serve as excellent best practices for any scientific publication.
+
+## Introducing the Paper Contract
+
+To facilitate discussions about authorship, contribution, and research design, we recommend creating a "Paper Contract" early in the research process.
+This document outlines:
+
+- Research questions
+- Hypotheses
+- Broad methodology
+- Author line
+- Submission plan
+- Author contributions
+
+This approach helps ensure all team members are aligned from the outset of the project.
+
+Remember, addressing authorship proactively isn't just about avoiding conflicts—it's about fostering a collaborative environment where everyone's contributions are recognized appropriately.
+By following these guidelines and using tools like the Paper Contract, you can focus more of your energy on conducting high-quality research.
+
+If you have any questions or need further clarification on these topics, please don't hesitate to reach out.
+Here's to productive collaborations and impactful research!

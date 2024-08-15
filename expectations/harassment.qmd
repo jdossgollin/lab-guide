@@ -1,36 +1,33 @@
 ---
-title: "Harassment"
+title: "Harassment Policy"
 ---
 
-This policy on harassment represents a non-negotiable first step towards our mission of building an inclusive, diverse, and equitable environment.
-All members of the research group are required to abide by the following policy on harassment in the workplace and to enforce these guidelines collectively.
-
-::: {.callout-note}
-## Credit
-Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy). Please help by translating or improving [on GitHub](https://github.com/confcodeofconduct/confcodeofconduct.com). This work is licensed under a Creative Commons Attribution 3.0 Unported License.
-:::
+This policy represents our commitment to building an inclusive, diverse, and equitable environment. We celebrate the diverse experiences, perspectives, and backgrounds of our group members, colleagues, and broader community, recognizing that this diversity strengthens our research, fosters innovation, and enhances our collective growth. All members of the research group must abide by and collectively enforce these guidelines.
 
 ## The quick version
 
-This research group is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
-We do not tolerate harassment of group members or other colleagues in any form.
-Sexual language and imagery is not appropriate for any professional setting, including talks, workshops, parties, Twitter, and other online media.
-Research group members violating these rules may be sanctioned or expelled from the group at the discretion of James Doss-Gollin.
+Our research group is dedicated to providing a harassment-free experience for everyone, regardless of personal characteristics or background. We do not tolerate harassment in any form. Professional conduct is expected in all settings, including online interactions. Violations may result in sanctions or expulsion from the group.
 
 ## The less quick version
 
-All Rice employees and students must understand and comply with the University’s policies and procedures regarding harassment and discrimination, including but not limited to the [Policy on Harassment and Sexual Misconduct](https://policy.rice.edu/830) and the [Prohibited Behaviors](https://safe.rice.edu/prohibited-behaviors).
-In addition to these formal procedures, our group adopts additional informal guidelines on conduct which may go beyond the University’s policies.
+All Rice employees and students must understand and comply with the University's policies and procedures regarding harassment and discrimination, including but not limited to the [Policy on Harassment and Sexual Misconduct](https://policy.rice.edu/830) and the [Prohibited Behaviors](https://safe.rice.edu/prohibited-behaviors). Our group adopts additional guidelines.
 
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of the research environment, talks, or other events, inappropriate physical contact, unwelcome sexual attention, or creation of an otherwise sexualized environment.
+Harassment includes, but is not limited to:
 
-Group members asked to stop any harassing behavior are expected to comply immediately.
+- Offensive comments related to personal characteristics
+- Unwelcome sexual attention or imagery
+- Intimidation or stalking
+- Disruption of the research environment
+- Inappropriate physical contact
 
-If a member engages in harassing behavior, other group members and James Doss-Gollin may take any action they deem appropriate to stop this behavior, including warning the offender or expulsion from the group and sanction through official Rice University channels.
+If you experience or witness harassment, please contact James Doss-Gollin immediately. James can assist with security, law enforcement, or official University reporting channels. Please note that James is a mandatory reporter as defined in [University Policy](https://policy.rice.edu/828). For concerns about James, or if you prefer he not be involved, contact the [Office for Interpersonal Misconduct Prevention and Support](https://safe.rice.edu/getting-help-friend-and-yourself), [Office of Diversity and Inclusion](https://dei.rice.edu/), or [Title IX Office](https://titleix.rice.edu/).
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact James Doss-Gollin immediately.
-James is available to help group members contact security or local law enforcement, navigate official University reporting channels, or otherwise assist those experiencing harassment to feel safe in the research environment.
-If James is the cause of the concern or you would prefer he not be involved, official concerns can be directed to the [Office for Interpersonal Misconduct Prevention and Support](https://safe.rice.edu/getting-help-friend-and-yourself), [Office of Diversity and Inclusion](https://diversity.rice.edu/), or [Title IX Office](https://titleix.rice.edu/).
+We expect professional, respectful behavior in all work-related settings, including conferences and social events.
 
-We expect research group members to follow these rules in all professional settings including the office, conferences, workshop venues, and group-related social events.
-We additionally expect members to treat each other professionally with respect to their work and workspaces, with constructive criticism, without dismissive behavior, and without disruption of shared working spaces.
+## Additional Notes
+
+- Cultural sensitivity: We recognize that cultural norms vary, but within our group, these standards apply to all members regardless of background. We actively encourage open dialogue, seek opportunities to learn from one another, and strive to create an environment where all members feel welcomed, respected, and supported.
+- Taking concerns seriously: If someone asks you to stop a behavior that is bothering them, take their request seriously and stop the behavior immediately, even if you don't understand why it's problematic.
+- Regular review: This policy will be reviewed annually to ensure its effectiveness and relevance.
+
+By joining this research group, you agree to uphold these standards and contribute to a harassment-free environment that values and celebrates the diversity within our community.
