@@ -55,7 +55,3 @@ format:
     date-format: long
   pdf:
     documentclass: scrreport
-
-# references
-bibliography: _bibliography/library.bib
-csl: _assets/references/american-geophysical-union.csl
