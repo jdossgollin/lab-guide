@@ -2,8 +2,11 @@
 title: "Undergraduate Research"
 ---
 
-!!! info "Credit"
-    Specific language on this page comes from the [MemoLab](https://github.com/memobc/memolab-manual) at Boston College.
+::: {.callout-info}
+## Credit
+
+Specific language on this page comes from the [MemoLab](https://github.com/memobc/memolab-manual) at Boston College.
+:::
 
 ## Openings and Applying
 
